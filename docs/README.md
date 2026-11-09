@@ -8,7 +8,7 @@ unchanged. No backend or browser-side Markdown parser is required.
 ## Files
 
 ```text
-html/
+doc/
   README.md          This format specification; maintained by hand
   index.html         Generated page, including the complete annotated poem
   fragments.json     Generated fragment content and reverse-link records
@@ -18,12 +18,24 @@ html/
 ```
 
 Run `python -m pip install -r requirements.txt` once, then `python update.py`
-from the project root to rebuild the generated files. Open `html/index.html`
-directly, or serve it with `python -m http.server --directory html`.
+from the project root to rebuild the generated files. Open `doc/index.html`
+directly, or serve it with `python -m http.server --directory doc`.
 All asset URLs are relative, so the site can live under a subdirectory.
 The page loads `fragments.js` before `reader.js`; it assigns the same JSON data
 to `window.WASTELAND_DATA`, avoiding local-file fetch restrictions. JSON remains
 available to other consumers. Both copies are generated from the same object.
+
+## GitHub Pages
+
+In the repository's **Settings → Pages → Build and deployment**, set
+**Source** to **GitHub Actions**. The workflow in `.github/workflows/pages.yml`
+publishes the committed contents of `doc/` on pushes to `main`, or when run
+manually from the Actions tab. Rebuild locally and commit the generated files
+when changing the poem or fragments.
+
+The reader is a static site and does not need Jekyll. Branch-based Pages
+publishing only supports `/` or `/docs`, not `/doc`; selecting `/docs` with
+this layout causes a missing-directory build error.
 
 ## `index.html`
 

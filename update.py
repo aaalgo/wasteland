@@ -140,7 +140,7 @@ def build(root=ROOT):
     # A script bundle supports file://, where browsers block fetching local JSON.
     bundle = 'window.WASTELAND_DATA = ' + data.rstrip() + ';\n'
     outputs = {'index.html': page, 'fragments.json': data, 'fragments.js': bundle}
-    destination = root / 'doc'
+    destination = root / 'docs'
     destination.mkdir(exist_ok=True)
     # Finish every validation and render before staging any replacement.
     with tempfile.TemporaryDirectory(dir=destination, prefix='.build-') as staging:
