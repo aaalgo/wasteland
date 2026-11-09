@@ -1,0 +1,1198 @@
+window.WASTELAND_DATA = {
+  "schema_version": 1,
+  "fragments": {
+    "aeneid": {
+      "title": "Virgil's Aeneid",
+      "body_html": "<p>Eliot's note identifies <em>Aeneid</em> I.726–27 as the source of “laquearia,” the Latin word for a panelled or coffered ceiling. Virgil describes lamps hanging from the golden ceiling at Dido's banquet for Aeneas: the interior shines against the night outside.</p>\n<p>In “A Game of Chess,” that epic hospitality survives as a word lodged in an oppressive modern room. Smoke troubles the ceiling's pattern, while jewels, perfumes, mirrors, and carved figures crowd the senses. Dido's world of splendid welcome and disastrous love offers a possible undertone; Eliot explicitly identifies the ceiling passage, rather than assigning his unnamed woman Dido's identity.</p>\n",
+      "references": [
+        {
+          "id": "ref-0037",
+          "quote": "laquearia",
+          "start_line": 119,
+          "end_line": 119
+        }
+      ]
+    },
+    "augustine": {
+      "title": "Saint Augustine's Confessions",
+      "body_html": "<p>“To Carthage then I came” recalls Book III of Saint Augustine's <em>Confessions</em>, where the young Augustine enters a city full of turbulent desires. Eliot's notes also identify the appeal “O Lord Thou pluckest me out” with the <em>Confessions</em>. The remembered city becomes both a historical place and a condition of the desiring self.</p>\n<p>The prayers interrupt the Thames-daughters' broken accounts near the end of “The Fire Sermon.” Augustine's voice seeks rescue rather than another satisfaction. Eliot says that placing this Christian ascetic voice beside the Buddha's sermon is deliberate: the repeated “burning” joins traditions that diagnose desire differently but both imagine release from its captivity.</p>\n",
+      "references": [
+        {
+          "id": "ref-0084",
+          "quote": "To Carthage then I came",
+          "start_line": 355,
+          "end_line": 355
+        },
+        {
+          "id": "ref-0086",
+          "quote": "O Lord Thou pluckest me out\n  O Lord Thou pluckest",
+          "start_line": 358,
+          "end_line": 359
+        }
+      ]
+    },
+    "baudelaire": {
+      "title": "Baudelaire and The Flowers of Evil",
+      "body_html": "<p>Eliot's note on “Unreal City” cites “Les Sept Vieillards” from Charles Baudelaire's <em>Les Fleurs du mal</em>: a crowded, dream-filled city where a ghost encounters a passer-by in daylight. London inherits the atmosphere of Baudelaire's Paris, a place in which ordinary streets and hallucination occupy the same space.</p>\n<p>The end of “The Burial of the Dead” addresses the reader with the closing line of Baudelaire's prefatory poem “Au Lecteur”: the hypocritical reader is the speaker's likeness and brother. The accusation crosses the poem's frame. Readers cannot simply inspect the waste land from outside; the desires, evasions, and shared memories it assembles also belong to them.</p>\n",
+      "references": [
+        {
+          "id": "ref-0029",
+          "quote": "Unreal City",
+          "start_line": 80,
+          "end_line": 80
+        },
+        {
+          "id": "ref-0034",
+          "quote": "“You! hypocrite lecteur!—mon semblable,—mon frère!”",
+          "start_line": 96,
+          "end_line": 96
+        },
+        {
+          "id": "ref-0070",
+          "quote": "Unreal City",
+          "start_line": 248,
+          "end_line": 248
+        }
+      ]
+    },
+    "bradley": {
+      "title": "F. H. Bradley's Appearance and Reality",
+      "body_html": "<p>Eliot's note quotes F. H. Bradley's <em>Appearance and Reality</em> on the privacy of experience: each person's sensations, thoughts, and feelings appear within a circle inaccessible to other people. Eliot places this passage beside Dante's prison tower as a source for “each in his prison.”</p>\n<p>The image gives the command “Dayadhvam”—sympathize or show compassion—a particular difficulty. Thinking about the key may merely strengthen the thought of confinement. This is the poem's use of Bradley's passage, rather than a summary of his entire philosophy: an account of private experience becomes the felt problem of reaching another person.</p>\n",
+      "references": [
+        {
+          "id": "ref-0106",
+          "quote": "I have heard the key\n  Turn in the door once and turn once only\n  We think of the key, each in his prison\n  Thinking of the key, each confirms a prison",
+          "start_line": 482,
+          "end_line": 485
+        }
+      ]
+    },
+    "buddha": {
+      "title": "The Buddha's Fire Sermon",
+      "body_html": "<p>The title of Part III refers to the Buddha's <em>Ādittapariyāya Sutta</em>, the Fire Sermon. It describes sense experience as burning with passion, hatred, and delusion, as well as the suffering of birth, aging, and death. Release requires disenchantment and dispassion toward what holds the senses captive. Eliot directs readers to Henry Clarke Warren's <em>Buddhism in Translations</em> in his note.</p>\n<p>After the river scenes and the typist's encounter, “burning” becomes both diagnosis and refrain. Augustine's prayer breaks into the same passage. Eliot explicitly calls this meeting of eastern and western ascetic voices intentional; the poem brings their demands for release together without making their teachings identical.</p>\n",
+      "references": [
+        {
+          "id": "ref-0053",
+          "quote": "THE FIRE SERMON",
+          "start_line": 209,
+          "end_line": 209
+        },
+        {
+          "id": "ref-0085",
+          "quote": "Burning burning burning burning",
+          "start_line": 357,
+          "end_line": 357
+        },
+        {
+          "id": "ref-0087",
+          "quote": "burning",
+          "start_line": 361,
+          "end_line": 361
+        }
+      ]
+    },
+    "chapel": {
+      "title": "The Chapel Perilous",
+      "body_html": "<p>Eliot names the approach to the Chapel Perilous, as discussed in Jessie L. Weston's <em>From Ritual to Romance</em>, among the themes of Part V. In Grail romance, a dangerous chapel can test the questing knight through an encounter with death, terror, and apparently supernatural obstacles.</p>\n<p>Here the chapel is empty, its door swinging in the wind. The assurance that dry bones cannot harm anyone seems to drain the ordeal of its terrors, yet also leaves the sacred building deserted. The cock's cry, lightning, and damp gust mark a change in the scene. They suggest the possibility of renewal without narrating a completed Grail quest or a restored community.</p>\n",
+      "references": [
+        {
+          "id": "ref-0098",
+          "quote": "In this decayed hole among the mountains\n  In the faint moonlight, the grass is singing\n  Over the tumbled graves, about the chapel\n  There is the empty chapel, only the wind’s home.\n  It has no windows, and the door swings,\n  Dry bones can harm no one.\n  Only a cock stood on the rooftree\n  Co co rico co co rico\n  In a flash of lightning. Then a damp gust\n  Bringing rain",
+          "start_line": 455,
+          "end_line": 464
+        }
+      ]
+    },
+    "chaucer": {
+      "title": "Chaucer and the Canterbury Tales",
+      "body_html": "<p>Eliot's opening recalls the first eighteen lines of the General Prologue\nto Geoffrey Chaucer's <em>The Canterbury Tales</em>. Chaucer's April rain brings\nflowers, birdsong, and the desire to go on pilgrimage. Eliot makes this\nrenewal painful: spring stirs memory and desire in the apparently dead\nearth, while winter offers the comfort of forgetfulness.</p>\n<h2>Middle English</h2>\n<p>Chaucer wrote in Middle English, rather than Old English. The passage\nbelow follows <a href=\"https://anthology.lib.virginia.edu/work/Chaucer/chaucer-prologue\">the University of Virginia's edition</a>,\nbased on Walter Skeat's 1900 text.</p>\n<blockquote>\n<p>Whan that Aprille with his shoures sote<br />\nThe droghte of Marche hath perced to the rote,<br />\nAnd bathed every veyne in swich licour,<br />\nOf which vertu engendred is the flour;<br />\nWhan Zephirus eek with his swete breeth<br />\nInspired hath in every holt and heeth<br />\nThe tendre croppes, and the yonge sonne<br />\nHath in the Ram his halfe cours y-ronne,<br />\nAnd smale fowles maken melodye,<br />\nThat slepen al the night with open yë,<br />\n(So priketh hem nature in hir corages):<br />\nThan longen folk to goon on pilgrimages<br />\n(And palmers for to seken straunge strondes)<br />\nTo ferne halwes, couthe in sondry londes;<br />\nAnd specially, from every shires ende<br />\nOf Engelond, to Caunterbury they wende,<br />\nThe holy blisful martir for to seke,<br />\nThat hem hath holpen, whan that they were seke.</p>\n</blockquote>\n<h2>Modern English</h2>\n<p>A fresh, literal translation of the passage above:</p>\n<blockquote>\n<p>When April with its sweet showers<br />\nHas pierced March's drought down to the root,<br />\nAnd bathed every vein in such liquid<br />\nWhose power brings the flower into being;<br />\nWhen the west wind, too, with its sweet breath<br />\nHas breathed life, in every wood and heath,<br />\nInto the tender shoots, and the young sun<br />\nHas run half its course through Aries,<br />\nAnd little birds make melody,<br />\nSleeping all night with open eyes<br />\n(So nature spurs them in their hearts):<br />\nThen people long to go on pilgrimages<br />\n(And pilgrims to seek out foreign shores),<br />\nTo distant shrines, known in various lands;<br />\nAnd especially, from every corner<br />\nOf England, they travel to Canterbury,<br />\nTo seek the holy, blessed martyr<br />\nWho helped them when they were sick.</p>\n</blockquote>\n<p>The martyr is Thomas Becket, whose shrine at Canterbury is the pilgrims'\ndestination. “Zephirus” is the west wind; “the Ram” is the zodiac sign\nAries. The opening moves from the awakening of plants and birds to a\nhuman journey toward healing—a movement Eliot's opening unsettles.</p>\n",
+      "references": [
+        {
+          "id": "ref-0005",
+          "quote": "April is the cruellest month, breeding\n  Lilacs out of the dead land, mixing\n  Memory and desire, stirring\n  Dull roots with spring rain.",
+          "start_line": 18,
+          "end_line": 21
+        },
+        {
+          "id": "ref-0009",
+          "quote": "shower",
+          "start_line": 26,
+          "end_line": 26
+        }
+      ]
+    },
+    "chess-women": {
+      "title": "Middleton's Women Beware Women",
+      "body_html": "<p>Eliot's note points to the chess game in Thomas Middleton's <em>Women Beware Women</em>, Act II, scene ii. Livia occupies Bianca's mother-in-law with a game while the Duke gains access to Bianca. The moves on the board accompany a manipulation of people and a sexual encounter structured by unequal power.</p>\n<p>The allusion makes the proposed game in Eliot's drawing room uneasy. A routine pastime sits beside sleepless vigilance and an anticipated knock: domestic intimacy feels strategic rather than reassuring. The play's title also shadows the section's movement between women in very different circumstances, both exposed to pressures around sex, marriage, and dependence.</p>\n",
+      "references": [
+        {
+          "id": "ref-0045",
+          "quote": "And we shall play a game of chess,\n  Pressing lidless eyes and waiting for a knock upon the door.",
+          "start_line": 168,
+          "end_line": 169
+        }
+      ]
+    },
+    "cleopatra": {
+      "title": "Antony and Cleopatra",
+      "body_html": "<p>The opening of “A Game of Chess” recasts Enobarbus's description of Cleopatra's barge in Shakespeare's <em>Antony and Cleopatra</em>, Act II, scene ii. Shakespeare's burnished throne becomes the chair in a modern interior. The echoes continue through the Cupidon figures, brilliant surfaces, perfume, and overwhelming display.</p>\n<p>The borrowed magnificence gives an unnamed woman the setting of a legendary queen, but the room's sensual abundance leads into strained, repetitive conversation. The allusion allows glamour and distress to occupy the same space. It does not establish that the woman is simply Cleopatra in modern dress; the older scene is one fragment among several crowding her room.</p>\n",
+      "references": [
+        {
+          "id": "ref-0036",
+          "quote": "The Chair she sat in, like a burnished throne,",
+          "start_line": 104,
+          "end_line": 104
+        }
+      ]
+    },
+    "coriolanus": {
+      "title": "Shakespeare's Coriolanus",
+      "body_html": "<p>Coriolanus is Shakespeare's Roman soldier whose pride and estrangement drive him out of Rome and into alliance with its enemies. His mother's appeal eventually turns him from attacking his own city, at the cost of his position among the Volscians and ultimately his life.</p>\n<p>Eliot gives only “a broken Coriolanus,” briefly revived by rumours at nightfall. Set within the meditation on sympathy and private prisons, the name can suggest a self enclosed by pride and precariously touched by human ties. The allusion remains compressed: the poem supplies neither a complete dramatic parallel nor a clear account of what this momentary revival achieves.</p>\n",
+      "references": [
+        {
+          "id": "ref-0108",
+          "quote": "a broken Coriolanus",
+          "start_line": 487,
+          "end_line": 487
+        }
+      ]
+    },
+    "damyata": {
+      "title": "Damyata: Control Yourself",
+      "body_html": "<p>“Damyata” means “control yourselves” or “exercise self-restraint.” In the thunder fable of the <em>Brihadaranyaka Upanishad</em> 5.2, the gods understand Prajāpati's syllable “Da” as this command. Eliot renders it “control” in his note and places it after giving and sympathy in his own sequence. See <a href=\"https://www.baps.org/Article/2011/The-Bruhadaranyaka-Upanishad-2024.aspx\">the Upanishad's three commands</a>.</p>\n<p>The answering boat turns discipline into an image of responsive movement. It runs gaily under an expert hand, unlike the drifting or wrecked vessels elsewhere in the poem. The heart's response is phrased conditionally—“would have responded”—so this harmony is imagined or missed as well as offered. Control here can be read as a condition of willing response, though the language of obedience keeps its emotional tension.</p>\n",
+      "references": [
+        {
+          "id": "ref-0109",
+          "quote": "Damyata: The boat responded\n  Gaily, to the hand expert with sail and oar\n  The sea was calm, your heart would have responded\n  Gaily, when invited, beating obedient\n  To controlling hands",
+          "start_line": 489,
+          "end_line": 493
+        },
+        {
+          "id": "ref-0122",
+          "quote": "Damyata.",
+          "start_line": 504,
+          "end_line": 504
+        }
+      ]
+    },
+    "dante-inferno": {
+      "title": "Dante's Inferno",
+      "body_html": "<p>The crowd crossing London Bridge recalls <em>Inferno</em> III.55–57, where Dante is astonished by the multitude of the dead. The following sighs draw on <em>Inferno</em> IV.25–27, the description of Limbo. Eliot names both passages in his notes, bringing different regions of Dante's afterlife into a single morning commute.</p>\n<p>Later, the turning key recalls <em>Inferno</em> XXXIII.46: Count Ugolino hears the tower locked while he and his children are imprisoned. Eliot places that irreversible sound beside Bradley's account of private experience. Across these returns, Dante's dead and captives give the modern city's routine and the isolated mind an audible, bodily form.</p>\n",
+      "references": [
+        {
+          "id": "ref-0027",
+          "quote": "I see crowds of people, walking round in a ring.",
+          "start_line": 75,
+          "end_line": 75
+        },
+        {
+          "id": "ref-0030",
+          "quote": "I had not thought death had undone so many.\n  Sighs, short and infrequent, were exhaled,",
+          "start_line": 83,
+          "end_line": 84
+        },
+        {
+          "id": "ref-0107",
+          "quote": "I have heard the key\n  Turn in the door once and turn once only",
+          "start_line": 482,
+          "end_line": 483
+        }
+      ]
+    },
+    "dante-purgatorio": {
+      "title": "Dante's Purgatory",
+      "body_html": "<p>“Il miglior fabbro” means “the better craftsman.” It recalls <em>Purgatorio</em>\nXXVI, 117, where Guido Guinizzelli points out the twelfth-century Provençal\ntroubadour Arnaut Daniel to Dante and praises him as the better craftsman\nof his mother tongue, surpassing his rivals in vernacular poetry.\nEliot transfers this tribute to Ezra Pound in the dedication of <em>The Waste Land</em>.\nSee <a href=\"https://danteworlds.laits.utexas.edu/purgatory/09lust.html\">Danteworlds, University of Texas at Austin</a>.</p>\n<p>The phrase also returns Pound's own admiration for Daniel: chapter II of\nhis <em>The Spirit of Romance</em> (1910), devoted to Daniel, is titled\n“Il miglior fabbro.” Pound continued this study in twelve articles on\nDaniel published in 1911–12, which he intended to gather into a book.\nSee <a href=\"https://archive.org/details/spiritofromancea00pounrich\">the 1910 edition of <em>The Spirit of Romance</em></a>.</p>\n<p>Daniel returns near the end of <em>The Waste Land</em> in “Poi s’ascose nel foco\nche gli affina,” from <em>Purgatorio</em> XXVI, 148: he disappears into the fire\nthat purifies him. The dedication and this later fragment thus recall\nthe same canto and poet.</p>\n",
+      "references": [
+        {
+          "id": "ref-0004",
+          "quote": "il miglior fabbro",
+          "start_line": 10,
+          "end_line": 10
+        },
+        {
+          "id": "ref-0112",
+          "quote": "Poi s’ascose nel foco che gli affina",
+          "start_line": 499,
+          "end_line": 499
+        }
+      ]
+    },
+    "datta": {
+      "title": "Datta: Give",
+      "body_html": "<p>“Datta” means “give.” In the <em>Brihadaranyaka Upanishad</em> 5.2, human beings understand the syllable “Da” as a command to give, while gods and demons hear other instructions suited to their failings. Eliot moves giving to the beginning of his three responses to the thunder. See <a href=\"https://www.baps.org/Article/2011/The-Bruhadaranyaka-Upanishad-2024.aspx\">the Upanishad's three commands</a>.</p>\n<p>The poem asks what has actually been given and answers through a moment of surrender that ordinary records cannot preserve. Obituaries, remembered reputations, and legal papers register a life without containing its decisive inward act. Giving becomes an exposure of the self that prudence cannot undo, rather than simply an amount of property transferred.</p>\n",
+      "references": [
+        {
+          "id": "ref-0104",
+          "quote": "Datta: what have we given?\n  My friend, blood shaking my heart\n  The awful daring of a moment’s surrender\n  Which an age of prudence can never retract\n  By this, and this only, we have existed\n  Which is not to be found in our obituaries\n  Or in memories draped by the beneficent spider\n  Or under seals broken by the lean solicitor\n  In our empty rooms",
+          "start_line": 472,
+          "end_line": 480
+        },
+        {
+          "id": "ref-0120",
+          "quote": "Datta.",
+          "start_line": 504,
+          "end_line": 504
+        }
+      ]
+    },
+    "dayadhvam": {
+      "title": "Dayadhvam: Sympathize",
+      "body_html": "<p>“Dayadhvam” means “be compassionate”; Eliot glosses it as “sympathize.” In the <em>Brihadaranyaka Upanishad</em> 5.2, it is the command the demons hear within Prajāpati's “Da.” The thunder repeats giving, self-restraint, and compassion for all to learn. See <a href=\"https://www.baps.org/Article/2011/The-Bruhadaranyaka-Upanishad-2024.aspx\">the Upanishad's three commands</a>.</p>\n<p>Eliot follows the word with a locked door, private prisons, and a briefly revived Coriolanus. The command is heard through evidence of its difficulty: each consciousness may repeat the thought of enclosure instead of reaching another. Dante and Bradley supply different kinds of prison, while the broken Shakespearean figure suggests a fragile possibility of contact.</p>\n",
+      "references": [
+        {
+          "id": "ref-0105",
+          "quote": "Dayadhvam: I have heard the key\n  Turn in the door once and turn once only\n  We think of the key, each in his prison\n  Thinking of the key, each confirms a prison\n  Only at nightfall, aetherial rumours\n  Revive for a moment a broken Coriolanus",
+          "start_line": 482,
+          "end_line": 487
+        },
+        {
+          "id": "ref-0121",
+          "quote": "Dayadhvam.",
+          "start_line": 504,
+          "end_line": 504
+        }
+      ]
+    },
+    "dust": {
+      "title": "Fear in a Handful of Dust",
+      "body_html": "<p>A handful of dust compresses the landscape's barrenness into something that can be held. It also recalls the biblical identification of human life with earth: in Genesis 3:19, the human being is dust and returns to dust. The burial service's language of earth, ashes, and dust belongs to the same field of mortality.</p>\n<p>Eliot does not attach a source note to this phrase. Its force need not depend on one exclusive quotation: the offered handful makes an enormous fear small and tangible. Set after the morning and evening shadows, it turns attention from a person's changing outline to the material remainder of the body.</p>\n",
+      "references": []
+    },
+    "ecclesiastes": {
+      "title": "The Book of Ecclesiastes",
+      "body_html": "<p>Eliot's note directs the reader to Ecclesiastes 12:5, part of a poem about aging and death. Its images include fear of heights, a flourishing almond tree, a burdensome grasshopper, and the failure of desire, before the human being goes to an enduring home and mourners gather in the street.</p>\n<p>“The cricket no relief” brings that passage into the dry landscape of “The Burial of the Dead.” The poem's dead tree, exposed stone, and failed shelter make a natural scene feel like a condition of exhausted life. The biblical background strengthens that atmosphere without turning every object into a fixed equivalent from Ecclesiastes.</p>\n",
+      "references": [
+        {
+          "id": "ref-0014",
+          "quote": "And the dead tree gives no shelter, the cricket no relief,",
+          "start_line": 41,
+          "end_line": 41
+        }
+      ]
+    },
+    "elizabeth": {
+      "title": "Elizabeth I and the Earl of Leicester",
+      "body_html": "<p>Eliot's note cites J. A. Froude's history of Elizabeth I, which reproduces a report by the Spanish ambassador de Quadra to Philip II. On a river outing, Elizabeth and Lord Robert Dudley, later Earl of Leicester, joke about marriage in the ambassador's presence. This courtly scene lies behind the poem's royal pair in a gilded boat.</p>\n<p>The remembered pageant interrupts the oily working Thames. Gold, bells, wind, and moving oars briefly supply a ceremonial past, but the Thames-daughters' accounts of sexual disappointment follow it. The sequence invites comparison between the glamour of royal intimacy and later river encounters without claiming the past was innocent or whole.</p>\n",
+      "references": [
+        {
+          "id": "ref-0080",
+          "quote": "Elizabeth and Leicester\n       Beating oars\n       The stern was formed\n       A gilded shell\n       Red and gold\n       The brisk swell\n       Rippled both shores\n       Southwest wind\n       Carried down stream\n       The peal of bells\n       White towers",
+          "start_line": 324,
+          "end_line": 334
+        }
+      ]
+    },
+    "emmaus": {
+      "title": "The Road to Emmaus",
+      "body_html": "<p>In Luke 24:13–35, two disciples walk toward Emmaus after Jesus's death. The risen Jesus joins them, but they do not recognize him until he breaks bread; he then vanishes from their sight. Eliot identifies this journey as one of the themes used in the opening movement of Part V.</p>\n<p>The unknown third walker recalls a presence that accompanies despair before it is understood. Eliot also connects the passage with an Antarctic expedition's sensed extra companion. Religious recognition and exhausted perception overlap, but the poem withholds the Gospel's decisive unveiling: its travellers keep asking who walks beside them.</p>\n",
+      "references": [
+        {
+          "id": "ref-0094",
+          "quote": "Who is the third who walks always beside you?\n  When I count, there are only you and I together\n  But when I look ahead up the white road\n  There is always another one walking beside you\n  Gliding wrapt in a brown mantle, hooded\n  I do not know whether a man or a woman\n  —But who is that on the other side of you?",
+          "start_line": 426,
+          "end_line": 432
+        }
+      ]
+    },
+    "eugenides": {
+      "title": "Mr. Eugenides, the Smyrna Merchant",
+      "body_html": "<p>Mr. Eugenides arrives with the vocabulary of international trade: currants from Smyrna, “C.i.f. London,” and “documents at sight.” Eliot's note explains the arrangement for shipment and payment; the source edition also carries an editorial correction expanding c.i.f. as “cost, insurance and freight.” Commercial paperwork briefly becomes the poem's language.</p>\n<p>The invitation moves from a City hotel luncheon to a weekend at the Metropole, leaving the relation between business and personal solicitation suggestive rather than explicit. In his note on Tiresias, Eliot says the one-eyed merchant merges with the Phoenician Sailor. Eugenides therefore participates in a recurring sea-trade figure whose modern transactions coexist with older patterns of desire and death.</p>\n",
+      "references": [
+        {
+          "id": "ref-0026",
+          "quote": "one-eyed merchant",
+          "start_line": 71,
+          "end_line": 71
+        },
+        {
+          "id": "ref-0071",
+          "quote": "Mr. Eugenides, the Smyrna merchant\n  Unshaven, with a pocket full of currants\n  C.i.f. London: documents at sight,\n  Asked me in demotic French\n  To luncheon at the Cannon Street Hotel\n  Followed by a weekend at the Metropole.",
+          "start_line": 250,
+          "end_line": 255
+        }
+      ]
+    },
+    "ezekiel": {
+      "title": "The Book of Ezekiel",
+      "body_html": "<p>Eliot directs readers to Ezekiel 2:1 for “Son of man,” the address God uses to the prophet before commissioning him to speak. In its biblical setting the phrase marks a human listener confronted by a voice with authority, rather than someone confidently explaining the world on his own.</p>\n<p>Eliot's address instead presses on the listener's inability to know what can grow from stony rubbish and broken images. The prophetic manner survives amid cultural debris. Later dry bones may also remind a reader of Ezekiel's vision of restored life in chapter 37, but Eliot's explicit note here identifies the address in chapter 2; resurrection remains a possible resonance, not a completed event in this passage.</p>\n",
+      "references": [
+        {
+          "id": "ref-0012",
+          "quote": "Son of man,",
+          "start_line": 38,
+          "end_line": 38
+        }
+      ]
+    },
+    "fragment": {
+      "title": "A pile of fragments",
+      "body_html": "<p>Read <em>The Waste Land</em> as a pile of fragments: the damaged, displaced remains of readers’ shared consciousness. Voices, songs, myths, overheard conversations, and remembered books lie beside one another. A passage can feel familiar before its source is recognized; another can arrive as a foreign body. The breaks between them are part of the poem’s meaning.</p>\n<p>The opening Sibyl already gives us a surviving fragment: a voice from an older story, quoted in Latin and Greek, suspended at the threshold of a new poem. Her life continues after the desire to live has gone. Read her here as an image of cultural memory that survives in a diminished, troubled form: words remain available even when the world that sustained them seems remote.</p>\n<p>“A heap of broken images,” names the condition of this reading. The reader encounters pieces whose original settings have fallen away. Follow their echoes across the poem: water and drought, birds and violated voices, drowning and renewal. A fragment acquires meaning from its remembered source, from its new neighbors, and from the memories a reader brings to it. Identifying an allusion opens a connection; it does not finish the passage.</p>\n<p>“These fragments I have shored against my ruins” makes gathering these pieces an act of precarious support. The closing quotations preserve different languages and voices without making their differences disappear. Read backward as well as forward, returning to earlier passages when an image recurs. The links in this edition offer paths through that pile. No single path exhausts it, and the fragments need not resolve into a restored whole.</p>\n",
+      "references": [
+        {
+          "id": "ref-0002",
+          "quote": "Sibyllam",
+          "start_line": 5,
+          "end_line": 5
+        },
+        {
+          "id": "ref-0013",
+          "quote": "A heap of broken images,",
+          "start_line": 40,
+          "end_line": 40
+        },
+        {
+          "id": "ref-0117",
+          "quote": "These fragments I have shored against my ruins",
+          "start_line": 502,
+          "end_line": 502
+        }
+      ]
+    },
+    "frazer": {
+      "title": "James Frazer: The Golden Bough",
+      "body_html": "<p>In his introductory notes Eliot acknowledges James George Frazer's <em>The Golden Bough</em>, especially its <em>Adonis, Attis, Osiris</em> volumes, as a source for the poem's vegetation ceremonies. Frazer brought together accounts of ritual death, mourning, fertility, and returning life within a comparative account of religion. His framework is part of Eliot's source material, rather than an unquestioned account of how all religions developed.</p>\n<p>The corpse planted in a garden makes the expectation of returning vegetation grotesquely literal. Phlebas's movement through the stages of age and youth likewise invites a cyclical reading, although that passage carries no specific Frazer note. The poem repeatedly offers the forms of renewal while leaving uncertain whether a dead person or damaged society can actually return.</p>\n",
+      "references": [
+        {
+          "id": "ref-0032",
+          "quote": "“That corpse you planted last year in your garden,\n  “Has it begun to sprout? Will it bloom this year?\n  “Or has the sudden frost disturbed its bed?",
+          "start_line": 91,
+          "end_line": 93
+        },
+        {
+          "id": "ref-0089",
+          "quote": "He passed the stages of his age and youth",
+          "start_line": 374,
+          "end_line": 374
+        }
+      ]
+    },
+    "ganga": {
+      "title": "The Ganges and the Monsoon",
+      "body_html": "<p>“Ganga” is the Ganges; “Himavant” names the Himalayan region from which its waters descend. After the European waste landscape and the empty chapel, the poem imagines a diminished river, limp leaves, distant clouds, and a jungle waiting in silence. The setting prepares the thunder's Sanskrit syllable.</p>\n<p>Rain has been desired throughout Part V, but the thunder now brings an instruction as well as a possible change in weather. The waiting land connects bodily thirst to the need for giving, compassion, and self-restraint in the Upanishadic fable that follows. The poem does not describe a fully restored river: it holds the scene at the threshold of response.</p>\n",
+      "references": [
+        {
+          "id": "ref-0102",
+          "quote": "Ganga was sunken, and the limp leaves\n  Waited for rain, while the black clouds\n  Gathered far distant, over Himavant.\n  The jungle crouched, humped in silence.\n  Then spoke the thunder",
+          "start_line": 466,
+          "end_line": 470
+        }
+      ]
+    },
+    "goldsmith": {
+      "title": "Goldsmith's The Vicar of Wakefield",
+      "body_html": "<p>“When lovely woman stoops to folly” begins the song associated with Olivia in Oliver Goldsmith's <em>The Vicar of Wakefield</em>. The song treats a betrayed woman's death as the means to conceal shame and make her lover repent. Its moral and emotional economy makes female suffering answer for male betrayal. See <a href=\"https://rpo.library.utoronto.ca/content/when-lovely-woman-stoops-folly\">Goldsmith's song</a>.</p>\n<p>Eliot interrupts the borrowed opening with the typist's ordinary movements: pacing, smoothing her hair, putting on a record. Goldsmith's prescribed tragic ending gives way to automatic continuation. The contrast does not establish that the encounter has left no injury; it shows how little the typist's experience fits a ready-made literary script of remorse and death.</p>\n",
+      "references": [
+        {
+          "id": "ref-0074",
+          "quote": "When lovely woman stoops to folly",
+          "start_line": 296,
+          "end_line": 296
+        }
+      ]
+    },
+    "grail": {
+      "title": "The Holy Grail and the Fisher King",
+      "body_html": "<p>The Fisher King belongs to the varied medieval Grail traditions. Eliot approaches them through Jessie L. Weston's <em>From Ritual to Romance</em>, which links the king's affliction and the land's barrenness with a quest for restoration. Eliot acknowledges this book as a source for his title, plan, and much incidental symbolism, and specifically points to Weston's Fisher King chapter for the final fishing scene.</p>\n<p>Fishing behind a gashouse and fishing beside an arid plain bring the legendary role into diminished modern places. The empty chapel keeps the quest's architecture while withholding its sacred object. The whirlpool can be read within this network of water, ordeal, and possible renewal, but Eliot supplies no note making it an exclusive Grail symbol. At the end, the fisher asks whether he can order his lands; the poem leaves restoration as a question.</p>\n",
+      "references": [
+        {
+          "id": "ref-0061",
+          "quote": "While I was fishing in the dull canal\n  On a winter evening round behind the gashouse",
+          "start_line": 228,
+          "end_line": 229
+        },
+        {
+          "id": "ref-0090",
+          "quote": "Entering the whirlpool.",
+          "start_line": 375,
+          "end_line": 375
+        },
+        {
+          "id": "ref-0101",
+          "quote": "There is the empty chapel, only the wind’s home.",
+          "start_line": 458,
+          "end_line": 458
+        },
+        {
+          "id": "ref-0110",
+          "quote": "I sat upon the shore\n  Fishing, with the arid plain behind me\n  Shall I at least set my lands in order?",
+          "start_line": 495,
+          "end_line": 497
+        }
+      ]
+    },
+    "hesse": {
+      "title": "Hermann Hesse and the Collapse of Europe",
+      "body_html": "<p>Eliot's note to the falling cities in Part V cites Hermann Hesse's <em>Blick ins Chaos</em> (<em>A Glimpse into Chaos</em>). The passage describes much of eastern Europe moving toward chaos, singing with the intoxicated fervour of Dostoevsky's Dmitri Karamazov. The respectable citizen laughs; the saint and visionary listen in tears.</p>\n<p>The poem converts that diagnosis into an apocalyptic procession: maternal lamentation, wandering crowds, and towers that repeatedly fall. Jerusalem, Athens, Alexandria, Vienna, and London occupy one unstable landscape. Read through Hesse, the catastrophe threatens an inherited European consciousness as well as individual buildings; the succession of cities remains Eliot's imaginative construction, rather than a report of one historical event.</p>\n",
+      "references": [
+        {
+          "id": "ref-0096",
+          "quote": "What is that sound high in the air\n  Murmur of maternal lamentation\n  Who are those hooded hordes swarming\n  Over endless plains, stumbling in cracked earth\n  Ringed by the flat horizon only\n  What is the city over the mountains\n  Cracks and reforms and bursts in the violet air\n  Falling towers\n  Jerusalem Athens Alexandria\n  Vienna London\n  Unreal\n",
+          "start_line": 434,
+          "end_line": 444
+        }
+      ]
+    },
+    "hyacinth": {
+      "title": "The Hyacinth Girl",
+      "body_html": "<p>The hyacinth girl recalls a gift of flowers and a return from a garden. Her remembered speech meets another voice's account of failed speech and sight. The encounter reaches an intensity that the speaker can describe only by suspending the ordinary categories of life, death, and knowledge.</p>\n<p>Hyacinths suggest spring and the possibility of renewal, already made painful by the poem's opening. The classical story of Hyacinthus, the beautiful youth whose death produces a flower, offers a further resonance, but the passage does not explicitly name him. Bracketed by quotations from Wagner's <em>Tristan und Isolde</em>, this private memory belongs to a larger pattern of desire, separation, and an answer that never arrives.</p>\n",
+      "references": [
+        {
+          "id": "ref-0019",
+          "quote": "“You gave me hyacinths first a year ago;\n  “They called me the hyacinth girl.”\n  —Yet when we came back, late, from the Hyacinth garden,\n  Your arms full, and your hair wet, I could not\n  Speak, and my eyes failed, I was neither\n  Living nor dead, and I knew nothing,\n  Looking into the heart of light, the silence.",
+          "start_line": 53,
+          "end_line": 59
+        }
+      ]
+    },
+    "hyper": {
+      "title": "Hyper-Links",
+      "body_html": "",
+      "references": [
+        {
+          "id": "ref-0007",
+          "quote": "Summer surprised us,",
+          "start_line": 25,
+          "end_line": 25
+        },
+        {
+          "id": "ref-0010",
+          "quote": "In the mountains,",
+          "start_line": 34,
+          "end_line": 34
+        }
+      ]
+    },
+    "isaiah": {
+      "title": "The Book of Isaiah",
+      "body_html": "<p>The invitation to take shelter beneath a rock recalls Isaiah 32:2, where protection from wind, storm, and drought is figured as the shadow of a great rock in a weary land. Eliot does not identify this passage in his published notes; it is a verbal and imagistic echo rather than an explicitly documented citation.</p>\n",
+      "references": [
+        {
+          "id": "ref-0016",
+          "quote": "There is shadow under this red rock,\n  (Come in under the shadow of this red rock),",
+          "start_line": 43,
+          "end_line": 44
+        }
+      ]
+    },
+    "last-call": {
+      "title": "The Pub's Last Call",
+      "body_html": "<p>“HURRY UP PLEASE IT'S TIME” is the publican's closing call, repeatedly interrupting the conversation about Lil and Albert. The words belong to the ordinary regulation of a drinking evening. Their capital letters and recurrence make them sound increasingly impersonal beside the intimate disclosures they cut across.</p>\n<p>The refrain also lends the scene an undertone of mortality and approaching judgment. Time runs out while the speakers discuss worn bodies, unwanted pregnancies, and the obligations of marriage. No supernatural speaker needs to be supplied: the pressure comes from hearing an everyday formula acquire meanings its immediate speaker may never intend.</p>\n",
+      "references": [
+        {
+          "id": "ref-0047",
+          "quote": "HURRY UP PLEASE IT’S TIME",
+          "start_line": 173,
+          "end_line": 173
+        },
+        {
+          "id": "ref-0048",
+          "quote": "HURRY UP PLEASE IT’S TIME",
+          "start_line": 184,
+          "end_line": 184
+        },
+        {
+          "id": "ref-0049",
+          "quote": "HURRY UP PLEASE IT’S TIME",
+          "start_line": 197,
+          "end_line": 197
+        },
+        {
+          "id": "ref-0050",
+          "quote": "HURRY UP PLEASE IT’S TIME",
+          "start_line": 200,
+          "end_line": 200
+        },
+        {
+          "id": "ref-0051",
+          "quote": "HURRY UP PLEASE IT’S TIME",
+          "start_line": 201,
+          "end_line": 201
+        }
+      ]
+    },
+    "lil": {
+      "title": "Lil and Albert",
+      "body_html": "<p>Lil's story reaches us through a companion's pub conversation rather than through direct access to Lil herself. Albert returns from military service expecting pleasure; Lil has lost her teeth, borne five children, and taken pills to end a pregnancy. The companion treats these bodily costs as failures to keep a husband satisfied.</p>\n<p>The scene gives the poem's exhausted fertility an economic and domestic form. Reproduction has produced injury rather than renewal, while the threat of another woman turns friendship into surveillance. The narrator's confident judgments should not be mistaken for the poem's own verdict. Lil's brief replies expose pressures that the surrounding chatter tries to make ordinary.</p>\n",
+      "references": [
+        {
+          "id": "ref-0046",
+          "quote": "When Lil’s husband got demobbed, I said—\n  I didn’t mince my words, I said to her myself,\n  HURRY UP PLEASE IT’S TIME\n  Now Albert’s coming back, make yourself a bit smart.\n  He’ll want to know what you done with that money he gave you\n  To get yourself some teeth. He did, I was there.\n  You have them all out, Lil, and get a nice set,\n  He said, I swear, I can’t bear to look at you.\n  And no more can’t I, I said, and think of poor Albert,\n  He’s been in the army four years, he wants a good time,\n  And if you don’t give it him, there’s others will, I said.\n  Oh is there, she said. Something o’ that, I said.\n  Then I’ll know who to thank, she said, and give me a straight look.\n  HURRY UP PLEASE IT’S TIME\n  If you don’t like it you can get on with it, I said.\n  Others can pick and choose if you can’t.\n  But if Albert makes off, it won’t be for lack of telling.\n  You ought to be ashamed, I said, to look so antique.\n  (And her only thirty-one.)\n  I can’t help it, she said, pulling a long face,\n  It’s them pills I took, to bring it off, she said.\n  (She’s had five already, and nearly died of young George.)\n  The chemist said it would be all right, but I’ve never been the same.\n  You are a proper fool, I said.\n  Well, if Albert won’t leave you alone, there it is, I said,\n  What you get married for if you don’t want children?\n  HURRY UP PLEASE IT’S TIME\n  Well, that Sunday Albert was home, they had a hot gammon,\n  And they asked me in to dinner, to get the beauty of it hot—",
+          "start_line": 171,
+          "end_line": 199
+        }
+      ]
+    },
+    "london-bridge": {
+      "title": "London Bridge Is Falling Down",
+      "body_html": "<p>The nursery song about London Bridge falling down enters the closing sequence after the speaker asks whether he can set his lands in order. Its repetitive, familiar rhythm reduces the great city's collapse to a piece of communal childhood memory.</p>\n<p>Earlier, London Bridge carries the crowd whom the poem sees through Dante's dead. Near the end, the bridge itself becomes a fragment of remembered song. The return links public infrastructure, historical ruin, and language handed down without a stable explanation. The poem quotes the refrain; it does not establish any particular theory about the rhyme's historical origins.</p>\n",
+      "references": [
+        {
+          "id": "ref-0111",
+          "quote": "London Bridge is falling down falling down falling down",
+          "start_line": 498,
+          "end_line": 498
+        }
+      ]
+    },
+    "london": {
+      "title": "The Unreal City of London",
+      "body_html": "<p>London supplies a precise walking map: London Bridge, King William Street, Saint Mary Woolnoth, the Strand, and the streets beside the Thames. These are workplaces, roads, churches, and commercial meeting places. Their specificity gives the shifting voices a shared material setting.</p>\n<p>Yet the “Unreal City” is simultaneously Baudelaire's haunted modern city and Dante's realm of the dead. Crowds move on the clock without appearing fully alive to one another. Later, music and the interior of Magnus Martyr interrupt this estrangement. London is therefore more than a single emblem of corruption: its streets contain brief possibilities of attention alongside commerce, routine, and isolation.</p>\n",
+      "references": [
+        {
+          "id": "ref-0028",
+          "quote": "Unreal City,\n  Under the brown fog of a winter dawn,\n  A crowd flowed over London Bridge, so many,\n  I had not thought death had undone so many.\n  Sighs, short and infrequent, were exhaled,\n  And each man fixed his eyes before his feet.\n  Flowed up the hill and down King William Street,\n  To where Saint Mary Woolnoth kept the hours\n  With a dead sound on the final stroke of nine.",
+          "start_line": 80,
+          "end_line": 88
+        },
+        {
+          "id": "ref-0069",
+          "quote": "Unreal City\n  Under the brown fog of a winter noon\n  Mr. Eugenides, the Smyrna merchant\n  Unshaven, with a pocket full of currants\n  C.i.f. London: documents at sight,\n  Asked me in demotic French\n  To luncheon at the Cannon Street Hotel\n  Followed by a weekend at the Metropole.",
+          "start_line": 248,
+          "end_line": 255
+        },
+        {
+          "id": "ref-0077",
+          "quote": "And along the Strand, up Queen Victoria Street.\n  O City city, I can sometimes hear\n  Beside a public bar in Lower Thames Street,\n  The pleasant whining of a mandoline\n  And a clatter and a chatter from within\n  Where fishmen lounge at noon: where the walls\n  Of Magnus Martyr hold\n  Inexplicable splendour of Ionian white and gold.",
+          "start_line": 302,
+          "end_line": 309
+        }
+      ]
+    },
+    "magnus": {
+      "title": "St Magnus Martyr",
+      "body_html": "<p>St Magnus Martyr is the London church named amid the river streets and the noise of a nearby public bar. Eliot's note praises its interior as one of Wren's finest. “Ionian white and gold” concentrates the reader's attention on an unexpected architectural splendour inside the working city.</p>\n<p>The church interrupts the passage's movement through gramophone music, commercial streets, and lunchtime chatter. Its beauty is called “inexplicable”: the poem records the encounter without turning it into an argument or a complete religious resolution. Within the surrounding fragments, a crafted space briefly holds together what the city otherwise scatters.</p>\n",
+      "references": [
+        {
+          "id": "ref-0078",
+          "quote": "where the walls\n  Of Magnus Martyr hold\n  Inexplicable splendour of Ionian white and gold.",
+          "start_line": 307,
+          "end_line": 309
+        }
+      ]
+    },
+    "margate": {
+      "title": "Margate Sands",
+      "body_html": "<p>The third of the Thames-daughters speaks from Margate Sands, outside the central London geography of the preceding voices. Her words repeat “nothing” until the inability to connect becomes both a personal condition and a problem for the poem's own assembly of fragments.</p>\n<p>Broken fingernails and dirty hands bring the passage down from grand literary inheritance to bodily labour and deprivation. “My people” gestures toward a shared social history, but the speaker can offer no sustaining account of it. The poem leaves the relation between that exhausted community and its individual voice unresolved; the broken connection is part of what the fragment preserves.</p>\n",
+      "references": [
+        {
+          "id": "ref-0082",
+          "quote": "“On Margate Sands.\n  I can connect\n  Nothing with nothing.\n  The broken fingernails of dirty hands.\n  My people humble people who expect\n  Nothing.”",
+          "start_line": 347,
+          "end_line": 352
+        }
+      ]
+    },
+    "marie": {
+      "title": "Marie von Moritz and Countess Marie Larisch",
+      "body_html": "<p>The speaker called Marie remembers the Starnbergersee, Munich's Hofgarten, and a childhood sled ride with an aristocratic cousin. She is often associated with Countess Marie Larisch, but Eliot's own account identifies Marie von Moritz as the source of the remembered conversation. The German declaration of Lithuanian origin and German identity belongs first to this particular remembered voice.</p>\n<p>In his <a href=\"https://tseliot.com/the-eliot-hale-letters/letters/l21\">letter to Emily Hale of 2 March 1931</a>, Eliot describes von Moritz as a woman of about his own age at the time of writing, who had stayed in the same Munich boarding house as him and sometimes accompanied him on walks. He says that her conversation appears in the poem “almost word for word.” The letter's editorial note also records his later marginal annotation identifying her as a Balt who claimed the Duke of Liechtenstein as a cousin. This gives the Baltic declaration and aristocratic recollections a source in an actual encounter, while leaving the poem's transformation of that conversation open to interpretation.</p>\n<p>Countess Marie Larisch remains a parallel association in the passage's reception: the older identification connects Marie's aristocratic memories with the vanished world of the Habsburg court and Larisch's memoir, <em>My Past</em> (1913). That association should be distinguished from von Moritz's documented role as the source of the conversation. <a href=\"https://tseliotsociety.wildapricot.org/news/8493527\">Frances Dickey's report for the International T. S. Eliot Society</a>, published when the Hale letters became available in January 2020, brought Eliot's identification of von Moritz to renewed attention.</p>\n<p>Her recollections offer the surface of a privileged European past: travel, coffee, family connections, and the freedom of the mountains. Abrupt transitions make that world feel accessible only in scraps. The fear of the sled ride survives more vividly than a connected life story, and the movement between countries unsettles any simple idea of home.</p>\n<p>Bin gar keine Russin, stamm’ aus Litauen, echt deutsch.</p>\n<p>Bin: “am,” from sein (“to be”). The subject ich (“I”) is understood but omitted.\ngar: “at all,” strengthening the denial in gar keine.\nkeine: “no” or “not a,” agreeing with the feminine noun Russin.\nRussin: “Russian woman.” Together, Bin gar keine Russin means “I am not Russian at all.”\nstamm’: shortened form of stamme, from stammen (“to come from” or “to originate”). Again, ich is understood.\naus: “from.”\nLitauen: “Lithuania.” Stamm’ aus Litauen means “I come from Lithuania.”\necht: “genuinely” or “truly.”\ndeutsch: “German.” Echt deutsch means “genuinely German,” asserting German identity despite the speaker’s Lithuanian origin.</p>\n<p>The whole line means: “I am not Russian at all; I come from Lithuania, genuinely German.”</p>\n<p>Pronunciation (standard German; capitals indicate stressed syllables):</p>\n<p>Bin: bin, with the short i of English “sit.”\ngar: gahr, with the long a of “father.”\nkeine: KY-nuh; “ky” rhymes with “eye.”\nRussin: ROOS-in; keep the oo short, as in “foot,” not “food.”\nstamm’: shtahm, with a short a and no extra syllable after the m.\naus: owss; “ow” as in “cow,” followed by an s sound.\nLitauen: lee-TOW-un; “tow” rhymes with “cow.”\necht: ekht; kh represents the soft German ich sound, made with the tongue near the hard palate, like the h at the start of a strongly whispered “huge.” It is not a k sound.\ndeutsch: doytch; “oy” as in “boy,” ending with the ch of “church.”</p>\n<p>The whole line, approximately: bin gahr KY-nuh ROOS-in, shtahm owss lee-TOW-un, ekht doytch.</p>\n<p>IPA: [bɪn ɡaːɐ̯ ˈkaɪ̯nə ˈʁʊsɪn | ʃtam aʊ̯s liˈtaʊ̯ən | ɛçt dɔʏ̯tʃ]</p>\n",
+      "references": [
+        {
+          "id": "ref-0008",
+          "quote": "coming over the Starnbergersee\n  With a shower of rain; we stopped in the colonnade,\n  And went on in sunlight, into the Hofgarten,\n  And drank coffee, and talked for an hour.\n  Bin gar keine Russin, stamm’ aus Litauen, echt deutsch.\n  And when we were children, staying at the archduke’s,\n  My cousin’s, he took me out on a sled,\n  And I was frightened. He said, Marie,\n  Marie, hold on tight. And down we went.",
+          "start_line": 25,
+          "end_line": 33
+        }
+      ]
+    },
+    "marvell": {
+      "title": "Marvell's To His Coy Mistress",
+      "body_html": "<p>Eliot's note identifies Andrew Marvell's <em>To His Coy Mistress</em>. Marvell's lover hears time's winged chariot approaching and uses the prospect of death to press for immediate erotic fulfilment. Eliot twice reworks the phrase that introduces that pursuing sound.</p>\n<p>Here the sounds are rattling bones and then horns and motors bringing Sweeney to Mrs. Porter. Seduction's elegant argument breaks into decay, traffic, and popular song. The borrowed rhythm keeps mortality close to sexual pursuit, while the changing noises make the old poem sound as though it has been overheard and imperfectly reassembled in the modern city.</p>\n",
+      "references": [
+        {
+          "id": "ref-0059",
+          "quote": "But at my back in a cold blast I hear",
+          "start_line": 224,
+          "end_line": 224
+        },
+        {
+          "id": "ref-0064",
+          "quote": "But at my back from time to time I hear",
+          "start_line": 235,
+          "end_line": 235
+        }
+      ]
+    },
+    "middleton": {
+      "title": "Thomas Middleton and Chess",
+      "body_html": "<p>The section title can recall Thomas Middleton's <em>A Game at Chess</em>, but Eliot's explicit note identifies a different Middleton play: <em>Women Beware Women</em>. In its chess scene, a game helps distract a watching woman while Bianca is exposed to the Duke's sexual pursuit. The distinction matters: the documented allusion is to the dramatic situation in <em>Women Beware Women</em>.</p>\n<p>Chess brings calculation, restricted movement, and unequal knowledge into the room where the poem's couple cannot communicate. Their proposed game offers a way to occupy time without resolving fear or desire. Read beside Middleton's scene, apparently civilised leisure carries the possibility of manipulation and sexual coercion.</p>\n",
+      "references": [
+        {
+          "id": "ref-0035",
+          "quote": "A GAME OF CHESS",
+          "start_line": 101,
+          "end_line": 101
+        }
+      ]
+    },
+    "mrs-porter": {
+      "title": "Mrs. Porter",
+      "body_html": "<p>Eliot says that the Mrs. Porter verses came to him from Sydney, Australia, and that he did not know the ballad's origin. His note establishes an orally transmitted popular song without providing a definitive account of its first singers or setting.</p>\n<p>The moonlight and washing make a comic domestic picture just after the arrival of Sweeney has been announced through a transformed literary hunting scene. Immediately afterward, Verlaine's children sing beneath a cupola. These adjacent kinds of song let bodily washing brush against ritual purification without making Mrs. Porter herself into a securely identified religious symbol.</p>\n",
+      "references": [
+        {
+          "id": "ref-0066",
+          "quote": "O the moon shone bright on Mrs. Porter\n  And on her daughter\n  They wash their feet in soda water",
+          "start_line": 238,
+          "end_line": 240
+        }
+      ]
+    },
+    "mylae": {
+      "title": "Stetson and the Battle of Mylae",
+      "body_html": "<p>Mylae was a naval battle between Rome and Carthage in 260 BCE, during the First Punic War. The speaker greets the modern-sounding Stetson as a former shipmate there, collapsing a vast interval of historical time inside a London street encounter.</p>\n<p>The impossible reunion makes collective memory behave like personal recollection. Ancient warfare, the recent experience of mass death, and the question about a planted corpse enter the same conversation. Stetson need not be decoded as one historical individual: the anachronism makes the persistence of war and death more forceful than a realistic identification would.</p>\n",
+      "references": [
+        {
+          "id": "ref-0031",
+          "quote": "There I saw one I knew, and stopped him, crying “Stetson!\n  “You who were with me in the ships at Mylae!",
+          "start_line": 89,
+          "end_line": 90
+        }
+      ]
+    },
+    "nerval": {
+      "title": "Nerval's The Disinherited",
+      "body_html": "<p>Eliot identifies the quoted French line as coming from Gérard de Nerval's sonnet <em>El Desdichado</em>, commonly rendered <em>The Disinherited</em>. The image is of a prince of Aquitaine whose tower has been destroyed. In Nerval's poem, the speaker's identity is assembled through bereavement, legendary names, and uncertain acts of recognition.</p>\n<p>Near the end of <em>The Waste Land</em>, the line returns the falling towers of Part V in the form of a damaged personal inheritance. A title and a territory survive in language after the structure that secured them has gone. Its placement beside “my ruins” makes the distinction between cultural collapse and the speaker's own loss difficult to maintain.</p>\n",
+      "references": [
+        {
+          "id": "ref-0116",
+          "quote": "Le Prince d’Aquitaine à la tour abolie",
+          "start_line": 501,
+          "end_line": 501
+        }
+      ]
+    },
+    "nothing": {
+      "title": "nothing",
+      "body_html": "",
+      "references": [
+        {
+          "id": "ref-0020",
+          "quote": "Speak, and my eyes failed, I was neither\n  Living nor dead, and I knew nothing,\n  Looking into the heart of light, the silence.",
+          "start_line": 57,
+          "end_line": 59
+        },
+        {
+          "id": "ref-0042",
+          "quote": "Nothing again nothing.\n                                                                    “Do\n  “You know nothing? Do you see nothing? Do you remember\n  “Nothing?”\n\n     I remember\n  Those are pearls that were his eyes.\n  “Are you alive, or not? Is there nothing in your head?”",
+          "start_line": 150,
+          "end_line": 157
+        },
+        {
+          "id": "ref-0083",
+          "quote": "Nothing with nothing",
+          "start_line": 349,
+          "end_line": 349
+        }
+      ]
+    },
+    "nymphs": {
+      "title": "The Departed Nymphs",
+      "body_html": "<p>Nymphs are the spirits of the natural world in classical tradition, and river nymphs belong especially to the inherited language of pastoral poetry. In this passage, that tradition is immediately present through the borrowed refrain from Spenser's <em>Prothalamion</em>.</p>\n<p>The announcement that the nymphs have departed also seems to refer to modern women who once met the sons of city directors by the Thames. Mythic beings and temporary lovers share a sentence, then disappear without forwarding addresses. The river loses both its poetic guardians and the litter of its summer pleasures: absence itself becomes the surviving evidence.</p>\n",
+      "references": [
+        {
+          "id": "ref-0054",
+          "quote": "The nymphs are departed.",
+          "start_line": 214,
+          "end_line": 214
+        },
+        {
+          "id": "ref-0056",
+          "quote": "The nymphs are departed.",
+          "start_line": 218,
+          "end_line": 218
+        }
+      ]
+    },
+    "ophelia": {
+      "title": "Ophelia's Farewell",
+      "body_html": "<p>The final farewell in “A Game of Chess” comes from Ophelia in Shakespeare's <em>Hamlet</em>, Act IV, scene v. Her broken songs and departures follow her father's death and the collapse of the relationships around her. Her subsequent drowning makes the farewell retrospectively ominous.</p>\n<p>Eliot lets ordinary pub goodnights slide into Ophelia's words without announcing a new speaker. Lil's suffering and the chatter about her are suddenly heard through another woman's distress. The quotation does not turn Lil into a literal Ophelia; it lets an inherited theatrical voice carry an anguish the pub conversation has scarcely acknowledged.</p>\n",
+      "references": [
+        {
+          "id": "ref-0052",
+          "quote": "Good night, ladies, good night, sweet ladies, good night, good night.",
+          "start_line": 204,
+          "end_line": 204
+        }
+      ]
+    },
+    "paradise-lost": {
+      "title": "Milton's Paradise Lost",
+      "body_html": "<p>Eliot's note traces “sylvan scene” to Book IV of Milton's <em>Paradise Lost</em>. There the wooded prospect belongs to the landscape around Eden. In the London room, it becomes the supposed view behind an image of Philomela's rape and transformation.</p>\n<p>A phrase associated with paradise frames an act of violation. The effect unsettles the room's cultivated beauty: mythology is displayed as decoration, but its suffering persists through the nightingale's voice. The allusion makes the distance between a lost garden and the luxurious interior audible in only two borrowed words.</p>\n",
+      "references": [
+        {
+          "id": "ref-0038",
+          "quote": "sylvan scene",
+          "start_line": 125,
+          "end_line": 125
+        }
+      ]
+    },
+    "parliament-bees": {
+      "title": "John Day's The Parliament of Bees",
+      "body_html": "<p>Eliot cites John Day's <em>The Parliament of Bees</em> for the sound of horns and the arrival of Actaeon to see Diana in the spring. In the myth recalled by Day, Actaeon's encounter with the naked goddess leads to catastrophe rather than fulfilled possession.</p>\n<p>Eliot replaces the mythic names with Sweeney and Mrs. Porter and adds motors to the horns. The old pursuit becomes a modern journey, poised between sexual comedy and menace. Together with the nearby borrowing from Marvell, the passage makes apparently casual city sounds carry a crowded memory of desire, pursuit, and death.</p>\n",
+      "references": [
+        {
+          "id": "ref-0065",
+          "quote": "The sound of horns and motors, which shall bring\n  Sweeney to Mrs. Porter in the spring.",
+          "start_line": 236,
+          "end_line": 237
+        }
+      ]
+    },
+    "passion": {
+      "title": "The Passion of Christ",
+      "body_html": "<p>The opening of Part V evokes Christ's Passion through torchlight, a garden, agony, arrest, and the juxtaposition of prison and palace. These details recall the Gospel accounts of Gethsemane and the events leading to the crucifixion. Eliot's note also names the journey to Emmaus as one of this section's governing themes.</p>\n<p>The passage moves from one who has died to a collective “we” who are still dying. It borrows the shape of a sacred history without immediately supplying its promised resolution. The later companion on the road may reopen the possibility of recognition, but here the readers inhabit the interval of exhaustion, loss, and waiting.</p>\n",
+      "references": [
+        {
+          "id": "ref-0091",
+          "quote": "After the torchlight red on sweaty faces\n  After the frosty silence in the gardens\n  After the agony in stony places\n  The shouting and the crying\n  Prison and palace and reverberation\n  Of thunder of spring over distant mountains\n  He who was living is now dead\n  We who were living are now dying\n  With a little patience",
+          "start_line": 386,
+          "end_line": 394
+        }
+      ]
+    },
+    "pervigilium": {
+      "title": "The Vigil of Venus",
+      "body_html": "<p>Eliot's note identifies the <em>Pervigilium Veneris</em>, an anonymous Latin poem celebrating Venus and the renewal of love in spring. Its ending turns away from the communal festival toward a speaker who cannot sing. The question Eliot borrows asks when the speaker will become like a swallow, and belongs to a longing to end silence.</p>\n<p>The swallow returns the bird transformations and wounded voices associated with Philomela, a connection Eliot explicitly asks readers to make. It also carries the closing sequence into Tennyson's swallow song. The reading text's “ceu” is preserved here; the source edition itself records “uti” as an editorial variant rather than silently replacing Eliot's wording.</p>\n",
+      "references": [
+        {
+          "id": "ref-0113",
+          "quote": "Quando fiam ceu chelidon",
+          "start_line": 500,
+          "end_line": 500
+        }
+      ]
+    },
+    "philomela": {
+      "title": "Philomela and the Nightingale",
+      "body_html": "<p>Eliot points to Book VI of Ovid's <em>Metamorphoses</em>. Tereus rapes Philomela and cuts out her tongue to prevent her from telling what happened. She nevertheless communicates the crime through weaving. The ensuing violence ends in the transformation of the principal figures into birds.</p>\n<p>The poem makes Philomela's nightingale song both an “inviolable voice” and a sound reduced to “Jug Jug” by unhearing listeners. Her return in “The Fire Sermon” breaks language into bird calls and the name of her attacker. Voice survives bodily violation, but survival does not guarantee that a listener will understand or honour what it says.</p>\n",
+      "references": [
+        {
+          "id": "ref-0039",
+          "quote": "The change of Philomel, by the barbarous king\n  So rudely forced; yet there the nightingale\n  Filled all the desert with inviolable voice\n  And still she cried, and still the world pursues,\n  “Jug Jug” to dirty ears.",
+          "start_line": 126,
+          "end_line": 130
+        },
+        {
+          "id": "ref-0068",
+          "quote": "Twit twit twit\n  Jug jug jug jug jug jug\n  So rudely forc’d.\n  Tereu",
+          "start_line": 243,
+          "end_line": 246
+        },
+        {
+          "id": "ref-0114",
+          "quote": "Quando fiam ceu chelidon",
+          "start_line": 500,
+          "end_line": 500
+        }
+      ]
+    },
+    "phoenician": {
+      "title": "Phlebas the Phoenician Sailor",
+      "body_html": "<p>Madame Sosostris's drowned Phoenician Sailor returns as Phlebas in “Death by Water.” Eliot's note explicitly links the figures and lets them overlap with the merchant and Ferdinand from <em>The Tempest</em>. This is a network of recurring forms rather than a single character's continuous biography.</p>\n<p>Phlebas has forgotten the commercial reckoning of profit and loss. The current strips his life down to bones and carries him through the stages of age and youth. The final address makes his death a warning to the reader, regardless of religious identity. Water, elsewhere desperately desired, offers no simple promise of restoration here.</p>\n",
+      "references": [
+        {
+          "id": "ref-0024",
+          "quote": "the drowned Phoenician Sailor",
+          "start_line": 66,
+          "end_line": 66
+        },
+        {
+          "id": "ref-0088",
+          "quote": "Phlebas the Phoenician, a fortnight dead,\n  Forgot the cry of gulls, and the deep sea swell\n  And the profit and loss.\n                                           A current under sea\n  Picked his bones in whispers. As he rose and fell\n  He passed the stages of his age and youth\n  Entering the whirlpool.\n                                         Gentile or Jew\n  O you who turn the wheel and look to windward,\n  Consider Phlebas, who was once handsome and tall as you.",
+          "start_line": 369,
+          "end_line": 378
+        }
+      ]
+    },
+    "pia": {
+      "title": "Pia in Dante's Purgatory",
+      "body_html": "<p>Eliot's note cites Pia's speech in Dante's <em>Purgatorio</em>, Canto V. She compresses her earthly history into the places that made and unmade her: Siena and the Maremma. Her brief request to be remembered gives a remarkably small space to a life ended by violence.</p>\n<p>The Thames-daughter similarly names Highbury as her birthplace and Richmond and Kew as the places that “undid” her. London's geography takes the grammatical place of Dante's Italian landscape. The echo gives her sexual history the gravity of a damaged life asking to be heard, without supplying a full narrative or making her fate identical to Pia's.</p>\n",
+      "references": [
+        {
+          "id": "ref-0081",
+          "quote": "Highbury bore me. Richmond and Kew\n  Undid me.",
+          "start_line": 339,
+          "end_line": 340
+        }
+      ]
+    },
+    "pound": {
+      "title": "Ezra Pound and the Better Craftsman",
+      "body_html": "<p>The dedication names Ezra Pound and calls him “il miglior fabbro,” the better craftsman. The phrase comes from Dante's <em>Purgatorio</em>, Canto XXVI, where it honours the poet Arnaut Daniel. Eliot thus places a contemporary literary friendship inside an inherited language of poetic judgment.</p>\n<p>Pound's editorial work on the manuscript helped shape the published poem through substantial cuts and criticism. The <a href=\"https://www.britishlibrary.cn/en/works/the-waste-land/\">British Library's account of the annotated manuscript</a> documents that collaboration. For a poem built from other people's words, the dedication also acknowledges the other reader whose practical decisions helped determine how its fragments would meet.</p>\n",
+      "references": [
+        {
+          "id": "ref-0003",
+          "quote": "For Ezra Pound",
+          "start_line": 9,
+          "end_line": 9
+        }
+      ]
+    },
+    "psalm137": {
+      "title": "Psalm 137: By the Rivers of Babylon",
+      "body_html": "<p>Psalm 137 begins with the exiles of Judah sitting beside the rivers of Babylon and weeping as they remember Zion. Asked by their captors for songs, they ask how they can sing the Lord's song in a foreign land. Water here carries displacement and the difficulty of making music after catastrophe.</p>\n<p>Eliot replaces Babylon with Leman, the French name of Lake Geneva. The change puts a modern European place inside the biblical lament. Between the departed nymphs and Spenser's song to the Thames, this borrowed voice makes the riverbank a place where inherited songs survive as broken, displaced speech.</p>\n",
+      "references": [
+        {
+          "id": "ref-0057",
+          "quote": "By the waters of Leman I sat down and wept . . .",
+          "start_line": 221,
+          "end_line": 221
+        }
+      ]
+    },
+    "rats": {
+      "title": "Rats' Alley",
+      "body_html": "<p>Rats move between the imagined alley of dead men in “A Game of Chess” and the banks and garret of “The Fire Sermon.” The later passage explicitly recalls the earlier one through Eliot's note to line 115. These are recurrent images within the poem, rather than a single securely identified quotation.</p>\n<p>Their soft movements expose what human conversation and the modern city conceal: bodies reduced to bones, waste, and abandoned places. The rat's passage links an anxious private room with the polluted river. Read against the poem's promises of burial and renewal, these remains suggest decay continuing without any assured resurrection.</p>\n",
+      "references": [
+        {
+          "id": "ref-0040",
+          "quote": "I think we are in rats’ alley\n  Where the dead men lost their bones.",
+          "start_line": 144,
+          "end_line": 145
+        },
+        {
+          "id": "ref-0060",
+          "quote": "A rat crept softly through the vegetation\n  Dragging its slimy belly on the bank",
+          "start_line": 226,
+          "end_line": 227
+        },
+        {
+          "id": "ref-0063",
+          "quote": "White bodies naked on the low damp ground\n  And bones cast in a little low dry garret,\n  Rattled by the rat’s foot only, year to year.",
+          "start_line": 232,
+          "end_line": 234
+        }
+      ]
+    },
+    "revelation": {
+      "title": "The Book of Revelation",
+      "body_html": "<p>The falling cities can be read beside Revelation 18, where Babylon, the great city of wealth and commerce, falls and becomes an object of lament. This is a biblical resonance, rather than a source identified in Eliot's printed notes. His note to this part of the poem instead explicitly mentions the contemporary decay of eastern Europe.</p>\n<p>Jerusalem, Athens, Alexandria, Vienna, and London collapse into one sequence. Sacred, classical, and modern cities lose their separate historical distances. The repeated “Unreal” makes their monuments appear unstable even before they fall: the reader encounters civilization as overlapping ruins rather than a secure inheritance.</p>\n",
+      "references": [
+        {
+          "id": "ref-0097",
+          "quote": "Falling towers\n  Jerusalem Athens Alexandria\n  Vienna London\n  Unreal\n",
+          "start_line": 441,
+          "end_line": 444
+        }
+      ]
+    },
+    "rhine": {
+      "title": "Wagner's Rhine Maidens",
+      "body_html": "<p>Eliot's note calls this passage the song of three Thames-daughters and points to the Rhine-daughters in Act III of Wagner's <em>Götterdämmerung</em>. The river spirits of Wagner's drama belong to the story of the stolen Rhine gold; their musical cries return in Eliot's “Weialala” refrain.</p>\n<p>The Thames carries oil, tar, barges, and memories of Elizabeth and Leicester. Then three women speak in turn, locating themselves through London places and damaged sexual encounters. Mythic river voices become local human voices. The refrain joins them without repairing the difference between the river's legendary past and its present traffic.</p>\n",
+      "references": [
+        {
+          "id": "ref-0079",
+          "quote": "The river sweats\n       Oil and tar\n       The barges drift\n       With the turning tide\n       Red sails\n       Wide\n       To leeward, swing on the heavy spar.\n       The barges wash\n       Drifting logs\n       Down Greenwich reach\n       Past the Isle of Dogs.\n            Weialala leia\n            Wallala leialala\n       Elizabeth and Leicester\n       Beating oars\n       The stern was formed\n       A gilded shell\n       Red and gold\n       The brisk swell\n       Rippled both shores\n       Southwest wind\n       Carried down stream\n       The peal of bells\n       White towers\n            Weialala leia\n            Wallala leialala\n\n  “Trams and dusty trees.\n  Highbury bore me. Richmond and Kew\n  Undid me. By Richmond I raised my knees\n  Supine on the floor of a narrow canoe.”\n\n  “My feet are at Moorgate, and my heart\n  Under my feet. After the event\n  He wept. He promised ‘a new start’.\n  I made no comment. What should I resent?”\n  “On Margate Sands.\n  I can connect\n  Nothing with nothing.\n  The broken fingernails of dirty hands.\n  My people humble people who expect\n  Nothing.”\n       la la",
+          "start_line": 311,
+          "end_line": 353
+        }
+      ]
+    },
+    "rock": {
+      "title": "Rock and No Water",
+      "body_html": "<p>Rock remains where water is wanted: hard, dry matter offers neither drink nor the sound that might promise relief. In “The Burial of the Dead,” the dry stone gives no sound of water. “What the Thunder Said” expands that absence into a mountain landscape where walking, resting, and thinking become difficult. The mouth of the mountain cannot spit; even thunder produces no rain.</p>\n<p>The repeated conditional “If there were” makes an imagined spring briefly audible. The lines move from wanting water to wanting only its sound, until the hermit-thrush supplies a deceptive “Drip drop.” The final assertion, “But there is no water,” breaks that imagined relief. Bodily thirst becomes a way of experiencing a world unable to answer desire, while the later expectation of rain keeps renewal possible without yet delivering it.</p>\n",
+      "references": [
+        {
+          "id": "ref-0015",
+          "quote": "And the dry stone no sound of water.",
+          "start_line": 42,
+          "end_line": 42
+        },
+        {
+          "id": "ref-0092",
+          "quote": "Here is no water but only rock\n  Rock and no water and the sandy road\n  The road winding above among the mountains\n  Which are mountains of rock without water\n  If there were water we should stop and drink\n  Amongst the rock one cannot stop or think\n  Sweat is dry and feet are in the sand\n  If there were only water amongst the rock\n  Dead mountain mouth of carious teeth that cannot spit\n  Here one can neither stand nor lie nor sit\n  There is not even silence in the mountains\n  But dry sterile thunder without rain\n  There is not even solitude in the mountains\n  But red sullen faces sneer and snarl\n  From doors of mudcracked houses\n                                                           If there were water\n  And no rock\n  If there were rock\n  And also water\n  And water\n  A spring\n  A pool among the rock\n  If there were the sound of water only\n  Not the cicada\n  And dry grass singing\n  But sound of water over a rock\n  Where the hermit-thrush sings in the pine trees\n  Drip drop drip drop drop drop drop\n  But there is no water",
+          "start_line": 396,
+          "end_line": 424
+        }
+      ]
+    },
+    "sappho": {
+      "title": "Sappho and the Returning Sailor",
+      "body_html": "<p>Eliot's note to line 221 names Sappho as a remembered source for evening's power to bring scattered beings home. The surviving fragment commonly numbered 104a addresses the evening star, which brings back what dawn dispersed: sheep, goats, and a child to its mother.</p>\n<p>Eliot says that his own sailor is a coastal or dory fisherman returning at nightfall. The ancient pattern of homecoming now leads into the typist's room. Evening still gathers people home, but the encounter that follows offers little of the tenderness or reunion the inherited song might promise.</p>\n",
+      "references": [
+        {
+          "id": "ref-0073",
+          "quote": "Homeward, and brings the sailor home from sea,",
+          "start_line": 263,
+          "end_line": 263
+        }
+      ]
+    },
+    "shackleton": {
+      "title": "Shackleton and the Unseen Companion",
+      "body_html": "<p>In <em>South</em>, Ernest Shackleton describes the exhausting crossing of South Georgia with Worsley and Crean. Each sensed another presence accompanying the three men. Eliot's note remembers an Antarctic expedition, tentatively identifies Shackleton, and makes this account the stimulus for the unexplained companion in Part V. <a href=\"https://www.gutenberg.org/cache/epub/5199/pg5199-images.html\">Shackleton's account</a> places the experience in the South Georgia march.</p>\n<p>Eliot changes the group into two visible walkers and an elusive third. The figure also overlaps the journey to Emmaus, explicitly named among this section's themes. Exhaustion, altered perception, and the possibility of a sacred companion remain suspended together; the poem does not settle the figure's identity.</p>\n",
+      "references": [
+        {
+          "id": "ref-0095",
+          "quote": "Who is the third who walks always beside you?\n  When I count, there are only you and I together\n  But when I look ahead up the white road\n  There is always another one walking beside you\n  Gliding wrapt in a brown mantle, hooded\n  I do not know whether a man or a woman\n  —But who is that on the other side of you?",
+          "start_line": 426,
+          "end_line": 432
+        }
+      ]
+    },
+    "shakespeare-rag": {
+      "title": "That Shakespearian Rag",
+      "body_html": "<p>“That Shakespearian Rag” was published in 1912, with music by Dave Stamper and words by Gene Buck and Herman Ruby. Its chorus advertises Shakespeare through the language of elegance and intelligence. The <a href=\"https://yorkspace.library.yorku.ca/items/62165c1c-bb33-4b9a-9c6b-6992f4546e08\">surviving sheet music</a> records the song and its authors.</p>\n<p>The tune intrudes just after the remembered line about pearls from <em>The Tempest</em>. Shakespeare reaches the troubled room through both a haunting dramatic quotation and a commercial song. The rag's compulsive brightness can be heard as a defence against the demand to speak, or as another borrowed voice occupying a mind that cannot answer directly.</p>\n",
+      "references": [
+        {
+          "id": "ref-0044",
+          "quote": "O O O O that Shakespeherian Rag—\n  It’s so elegant\n  So intelligent",
+          "start_line": 159,
+          "end_line": 161
+        },
+        {
+          "id": "ref-0075",
+          "quote": "a record on the gramophone",
+          "start_line": 299,
+          "end_line": 299
+        }
+      ]
+    },
+    "shantih": {
+      "title": "Shantih: Peace",
+      "body_html": "<p>Eliot's final note identifies the threefold “Shantih” as a formal ending to an Upanishad. The Sanskrit word means peace; he suggests the Christian phrase about peace passing understanding while warning that it is an inadequate rendering.</p>\n<p>After the quotations, ruins, and thunder's three commands, the poem takes on the cadence of a closing invocation. Whether this peace has been attained remains open. It can be read as a prayer or an act of utterance that seeks the stillness the preceding voices could not secure.</p>\n",
+      "references": [
+        {
+          "id": "ref-0123",
+          "quote": "Shantih    shantih    shantih",
+          "start_line": 505,
+          "end_line": 505
+        }
+      ]
+    },
+    "sibyl": {
+      "title": "The Cumaean Sibyl",
+      "body_html": "<p>The epigraph comes from Petronius's <em>Satyricon</em>, section 48. Trimalchio claims to have seen the Sibyl at Cumae suspended in a small vessel. When boys ask in Greek what she wants, she replies that she wants to die. The Latin narration encloses her Greek answer, making the poem's first voice already a fragment carried across languages.</p>\n<p>The background to her aging appears in <a href=\"https://www.poetryintranslation.com/PITBR/Latin/Metamorph14.php\">Ovid's <em>Metamorphoses</em>, Book XIV, lines 130–153</a>. Apollo offered to grant her a wish. She asked for as many years of life as there were grains in a heap of dust, but forgot to ask that those years also preserve her youth. Apollo offered youth too if she would yield to him; she refused. When she tells Aeneas her story, she has already lived seven hundred years and must endure another three hundred. She foresees her body dwindling under the weight of age until only her voice remains. This is prolonged mortal life without relief from aging, giving a background to the exhausted figure in Petronius's vessel.</p>\n<p>A prophet traditionally associated with knowledge of the future appears here diminished and trapped. The poem begins with life persisting beyond desire, rather than death simply opposing life. Her exhausted wish shadows the later fortune-teller and the many speakers who occupy uncertain states between living and dead.</p>\n<p>Read through her story, “fear in a handful of dust” carries the fear of time and aging: each grain of dust or sand becomes another year to be endured. The handful that once promised abundant life measures the slow exhaustion of the body. In this reading, what causes fear is time's power to keep aging us while life continues, until the Sibyl can desire only its end. This is an interpretive connection between the epigraph and the later passage, rather than an explicit source identification supplied by Eliot.</p>\n<h2>Prophecy as scattered fragments</h2>\n<p>The Sibyl's way of giving prophecies offers a clue to the form of <em>The Waste Land</em>. In <a href=\"https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-iii-441-462\">Virgil's <em>Aeneid</em>, Book III, lines 441–460</a>, Helenus describes her as an inspired prophetess who sings the fates and writes signs and names on leaves. She arranges her prophetic verses in order inside her cave. But when the door opens, a breeze can scatter the leaves. She does not gather them again, restore their positions, or rejoin the verses. Visitors leave without the guidance they sought. Helenus therefore advises Aeneas to ask her to speak the prophecy herself.</p>\n<p>The revelation survives in pieces, but the connections that make it intelligible can be lost. This gives the opening Sibyl a further significance: she can be read as Eliot's hint about how to approach the poem that follows. Its changes of language, interrupted voices, quotations, and displaced memories resemble leaves from a scattered oracle. The reader must listen across the breaks, notice returning words and images, and bring separated passages into relation. A fragment may become clearer through another fragment far away, or through the older work from which it has been torn.</p>\n<p>On this reading, the poem asks us to gather the scattered leaves of a shared consciousness. That gathering need not produce a single continuous story or a final, unambiguous prediction: damaged connections and competing voices are part of the experience. The Sibyl's leaves belong to Virgil's account, not to the Petronius passage quoted in the epigraph; their use here as an invitation to read by assembling fragments is an interpretation of Eliot's choice of opening figure, rather than an explicit instruction from him.</p>\n<h2>The epigraph, word by word</h2>\n<blockquote>\n<p>Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.</p>\n</blockquote>\n<p>Translation: “For I myself actually saw the Sibyl at Cumae with my own eyes, hanging in a little bottle; and when the boys asked her, ‘Sibyl, what do you want?’, she would answer, ‘I want to die.’”</p>\n<p>The narration is Latin; the question and answer are Greek. The text is from <a href=\"https://latin.packhum.org/loc/972/1/28/863-867\">Petronius, <em>Satyricon</em> 48.8 (PHI Latin Texts)</a>. The tables follow the spelling of the poem's epigraph; dictionary forms appear separately. “Singular” and “plural” describe grammatical number; a verb's person identifies its subject: first person “I,” second person “you,” third person “he/she/it” or “they.”</p>\n<h3>Latin narration</h3>\n<p>Nam\nDictionary form: nam\nParse: Conjunction\nExplanation: “For”: connects Trimalchio's claim to his preceding talk in Petronius; Eliot preserves this connective even though that context is absent.</p>\n<p>Sibyllam\nDictionary form: Sibylla\nParse: Accusative feminine singular noun\nExplanation: “The Sibyl”: object of vidi and the understood subject of pendere—the person seen hanging.</p>\n<p>quidem\nDictionary form: quidem\nParse: Adverb / emphasizing particle\nExplanation: “Indeed,” “actually”: reinforces his claim to have seen her.</p>\n<p>Cumis\nDictionary form: Cumae\nParse: Locative plural place-name\nExplanation: “At Cumae.” The town's Latin name is plural; the locative ending coincides with the dative and ablative plural.</p>\n<p>ego\nDictionary form: ego\nParse: Nominative first-person singular pronoun\nExplanation: “I”: explicitly states the subject already indicated by vidi.</p>\n<p>ipse\nDictionary form: ipse\nParse: Nominative masculine singular intensive pronoun\nExplanation: “Myself”: agrees with ego, the male speaker Trimalchio, and emphasizes personal witness.</p>\n<p>oculis\nDictionary form: oculus\nParse: Ablative masculine plural noun\nExplanation: “With [my] eyes”: ablative of means, explaining how he saw her.</p>\n<p>meis\nDictionary form: meus\nParse: Ablative masculine plural possessive adjective\nExplanation: “My own”: agrees with oculis.</p>\n<p>vidi\nDictionary form: video\nParse: First-person singular perfect active indicative\nExplanation: “I saw” / “I have seen”: the main verb.</p>\n<p>in\nDictionary form: in\nParse: Preposition governing the ablative here\nExplanation: “In”: marks location, rather than motion into something.</p>\n<p>ampulla\nDictionary form: ampulla\nParse: Ablative feminine singular noun\nExplanation: “A little bottle” or “flask”: object of in, the vessel in which she hangs.</p>\n<p>pendere\nDictionary form: pendeo\nParse: Present active infinitive\nExplanation: “To hang,” here “hanging”: complements vidi, with Sibyllam as its accusative subject. Its present tense makes the hanging simultaneous with the seeing.</p>\n<p>et\nDictionary form: et\nParse: Coordinating conjunction\nExplanation: “And”: joins the account of seeing to the exchange that follows.</p>\n<p>cum\nDictionary form: cum\nParse: Temporal subordinating conjunction\nExplanation: “When”: introduces a past circumstance with the subjunctive dicerent.</p>\n<p>illi\nDictionary form: ille\nParse: Dative feminine singular demonstrative pronoun\nExplanation: “To her”: refers to the Sibyl, the person addressed. The form could elsewhere be nominative masculine plural (“those”), but here it supplies the recipient of dicerent.</p>\n<p>pueri\nDictionary form: puer\nParse: Nominative masculine plural noun\nExplanation: “Boys”: subject of dicerent.</p>\n<p>dicerent\nDictionary form: dico\nParse: Third-person plural imperfect active subjunctive\nExplanation: “Were saying,” here “asked”: the verb in the temporal cum clause, introducing their Greek words.</p>\n<p>respondebat\nDictionary form: respondeo\nParse: Third-person singular imperfect active indicative\nExplanation: “She was answering” / “she would answer”: the imperfect presents an ongoing or repeated response.</p>\n<p>illa\nDictionary form: ille\nParse: Nominative feminine singular demonstrative pronoun\nExplanation: “She”: explicitly names the Sibyl as the subject of respondebat.</p>\n<h3>Greek question and answer</h3>\n<p>Σίβυλλα\nDictionary form: Σίβυλλα\nParse: Vocative feminine singular noun\nExplanation: “Sibyl”: direct address; its form is identical to the nominative.</p>\n<p>τί\nDictionary form: τίς / τί\nParse: Accusative neuter singular interrogative pronoun\nExplanation: “What?”: object of θέλεις. The Greek semicolon-shaped mark after θέλεις is a question mark.</p>\n<p>θέλεις\nDictionary form: θέλω\nParse: Second-person singular present active indicative\nExplanation: “You want”: together, τί θέλεις; means “What do you want?”</p>\n<p>ἀποθανεῖν\nDictionary form: ἀποθνῄσκω\nParse: Second-aorist active infinitive\nExplanation: “To die”: complements θέλω. The aorist presents dying as an event as a whole; it does not mean past time in this construction.</p>\n<p>θέλω\nDictionary form: θέλω\nParse: First-person singular present active indicative\nExplanation: “I want”: the subject “I” is contained in the verb ending; ἀποθανεῖν θέλω means “I want to die.”</p>\n<p>The sentence turns on two infinitives: Trimalchio sees the Sibyl <em>pendere</em>, “hanging,” while she wants <em>ἀποθανεῖν</em>, “to die.” The emphatic <em>ego ipse oculis meis</em> (“I myself, with my own eyes”) insists on the witness's presence; the final Greek answer reduces the Sibyl's desire to two words.</p>\n",
+      "references": [
+        {
+          "id": "ref-0001",
+          "quote": "“Nam Sibyllam quidem Cumis ego ipse oculis meis\n  vidi in ampulla pendere, et cum illi pueri dicerent:\n  Σίβυλλα τί θέλεις; respondebat illa: ἀποθανεῖν θέλω.”",
+          "start_line": 5,
+          "end_line": 7
+        },
+        {
+          "id": "ref-0017",
+          "quote": "fear in a handful of dust",
+          "start_line": 48,
+          "end_line": 48
+        }
+      ]
+    },
+    "sosostris": {
+      "title": "Madame Sosostris",
+      "body_html": "<p>Madame Sosostris combines the prestige of prophecy with a cold, appointments, and professional caution. A possible literary precursor is the disguised fortune-teller in Aldous Huxley's <em>Crome Yellow</em>, chapter XXVII: Mr Scogan performs as Sesostris, the Sorceress of Ecbatana. The <a href=\"https://en.wikisource.org/wiki/Crome_Yellow/Chapter_XXVII\">novel's scene</a> makes prophecy a theatrical social transaction.</p>\n<p>Eliot's clairvoyante is comic, yet her cards anticipate the drowned Phoenician, the merchant, and the crowds that recur later. Her warning about water can be followed through the poem without treating her as an authoritative interpreter. The apparent fraud possesses fragments of knowledge whose connections she does not fully explain.</p>\n",
+      "references": [
+        {
+          "id": "ref-0022",
+          "quote": "Madame Sosostris, famous clairvoyante,\n  Had a bad cold, nevertheless\n  Is known to be the wisest woman in Europe,\n  With a wicked pack of cards. Here, said she,\n  Is your card, the drowned Phoenician Sailor,\n  (Those are pearls that were his eyes. Look!)\n  Here is Belladonna, the Lady of the Rocks,\n  The lady of situations.\n  Here is the man with three staves, and here the Wheel,\n  And here is the one-eyed merchant, and this card,\n  Which is blank, is something he carries on his back,\n  Which I am forbidden to see. I do not find\n  The Hanged Man. Fear death by water.\n  I see crowds of people, walking round in a ring.\n  Thank you. If you see dear Mrs. Equitone,\n  Tell her I bring the horoscope myself:\n  One must be so careful these days.",
+          "start_line": 62,
+          "end_line": 78
+        }
+      ]
+    },
+    "spanish-tragedy": {
+      "title": "Thomas Kyd's The Spanish Tragedy",
+      "body_html": "<p>Eliot's note identifies Thomas Kyd's <em>The Spanish Tragedy</em> as the source of the closing appeal to Hieronymo, the play's bereaved father and revenger, usually named Hieronimo in editions of the drama. His apparent madness develops beside a deliberate plot to avenge his murdered son.</p>\n<p>The play ends through a performance that turns into real killing, using theatrical roles and different languages to conceal its purpose. Beside Eliot's gathered fragments, the allusion makes the making of art inseparable from grief, violence, and damaged speech. The reassuring sound of “Why then Ile fit you” carries a threatening dramatic history.</p>\n",
+      "references": [
+        {
+          "id": "ref-0118",
+          "quote": "Why then Ile fit you. Hieronymo’s mad againe.",
+          "start_line": 503,
+          "end_line": 503
+        }
+      ]
+    },
+    "spenser": {
+      "title": "Spenser's Prothalamion",
+      "body_html": "<p>Eliot's note to line 176 names Edmund Spenser's <em>Prothalamion</em> (1596), a song celebrating a double marriage. Its refrain closes each of its ten stanzas. The opening riverbank supplies the landscape that “The Fire Sermon” remembers and empties:</p>\n<blockquote>\n<p>Along the shoare of siluer streaming Themmes,<br />\nWhose rutty Bancke, the which his Riuer hemmes,<br />\nWas paynted all with variable flowers,<br />\nAnd all the meades adornd with daintie gemmes,<br />\nFit to decke maydens bowres,<br />\nAnd crowne their Paramours,<br />\nAgainst the Brydale day, which is not long:<br />\nSweete Themmes runne softly, till I end my Song.</p>\n</blockquote>\n<p>— Stanza 1, lines 11–18.</p>\n<p>The next stanza introduces the figures whose departure Eliot announces:</p>\n<blockquote>\n<p>There, in a Meadow, by the Riuers side,<br />\nA Flocke of Nymphes I chaunced to espy,<br />\nAll louely Daughters of the Flood thereby,<br />\nWith goodly greenish locks all loose vntyde,<br />\nAs each had bene a Bryde;</p>\n</blockquote>\n<p>— Stanza 2, lines 19–23.</p>\n<p>Later, the nymphs scatter flowers over the two bridal swans and the water:</p>\n<blockquote>\n<p>Then forth they all out of their baskets drew,<br />\nGreat store of Flowers, the honour of the field,<br />\nThat to the sense did fragrant odours yeild,<br />\nAll which vpon those goodly Birds they threw,<br />\nAnd all the Waues did strew,</p>\n</blockquote>\n<p>— Stanza 5, lines 73–77.</p>\n<p>The quotations retain the old spelling of the <a href=\"https://talus.artsci.wustl.edu/spenserArchivePrototype/html/Prothalamion_poems.html\">Spenser Archive text</a>; “Themmes” is the Thames, and “rutty” means root-filled.</p>\n<p>In Eliot, the flower-strewn wedding river becomes a bank haunted by the absent litter of summer encounters. “The nymphs are departed” removes both Spenser's river spirits and the modern lovers who might take their place. The refrain survives, but Eliot's added “for I speak not loud or long” makes its public celebration sound exhausted and private. A shared song persists after its company has gone.</p>\n<p>Spenser's celebration already carries an undertone of disappointment: his speaker begins by seeking relief from frustrated hopes at court. Eliot draws out the grief within the remembered ceremonial song rather than simply overturning an innocent pastoral scene.</p>\n",
+      "references": [
+        {
+          "id": "ref-0055",
+          "quote": "Sweet Thames, run softly, till I end my song.",
+          "start_line": 215,
+          "end_line": 215
+        },
+        {
+          "id": "ref-0058",
+          "quote": "Sweet Thames, run softly till I end my song,\n  Sweet Thames, run softly, for I speak not loud or long.",
+          "start_line": 222,
+          "end_line": 223
+        }
+      ]
+    },
+    "tarot": {
+      "title": "The Tarot Cards",
+      "body_html": "<p>Eliot's note openly says that he departed from the Tarot pack to suit his purposes. Some cards belong to the traditional pack; others are invented or altered. He associates the Hanged Man with Frazer's hanged god and the hooded figure in Part V, and the man with three staves, arbitrarily, with the Fisher King.</p>\n<p>The reading is therefore an arrangement of the poem's own returning images rather than a faithful lesson in divination. Sailor, merchant, wheel, and crowds prepare later passages. The cards offer a miniature model of reading fragments: their significance develops through recurrence, while the reader must hold together connections that no single speaker commands.</p>\n",
+      "references": [
+        {
+          "id": "ref-0023",
+          "quote": "With a wicked pack of cards. Here, said she,\n  Is your card, the drowned Phoenician Sailor,\n  (Those are pearls that were his eyes. Look!)\n  Here is Belladonna, the Lady of the Rocks,\n  The lady of situations.\n  Here is the man with three staves, and here the Wheel,\n  And here is the one-eyed merchant, and this card,\n  Which is blank, is something he carries on his back,\n  Which I am forbidden to see. I do not find\n  The Hanged Man.",
+          "start_line": 65,
+          "end_line": 74
+        }
+      ]
+    },
+    "tempest": {
+      "title": "Shakespeare's The Tempest",
+      "body_html": "<p>Shakespeare's <em>The Tempest</em>, Act I, scene ii, supplies several returning phrases. Ariel sings to Ferdinand that his drowned father's eyes have become pearls; Ferdinand hears mysterious music over the water and mourns the king. The supposed death is deceptive within the play, where Alonso is still alive.</p>\n<p>Eliot detaches these phrases and redistributes them among a drowned sailor, an anxious room, and the Thames. Sea-change can suggest beautiful transformation, but it also makes a body into precious objects. Because the original scene contains mistaken mourning, its return complicates any simple division between death, survival, and renewal.</p>\n",
+      "references": [
+        {
+          "id": "ref-0025",
+          "quote": "Those are pearls that were his eyes.",
+          "start_line": 67,
+          "end_line": 67
+        },
+        {
+          "id": "ref-0043",
+          "quote": "Those are pearls that were his eyes.",
+          "start_line": 156,
+          "end_line": 156
+        },
+        {
+          "id": "ref-0062",
+          "quote": "Musing upon the king my brother’s wreck\n  And on the king my father’s death before him.",
+          "start_line": 230,
+          "end_line": 231
+        },
+        {
+          "id": "ref-0076",
+          "quote": "“This music crept by me upon the waters”",
+          "start_line": 301,
+          "end_line": 301
+        }
+      ]
+    },
+    "tennyson": {
+      "title": "Tennyson's Swallow Song",
+      "body_html": "<p>The broken appeal to a swallow near the end recalls a song in Alfred Tennyson's <em>The Princess</em>, Part IV. A lover asks the migrating bird to fly south and carry messages to an absent woman. The <a href=\"https://www.gutenberg.org/files/791/791-h/791-h.htm\">song in Tennyson's poem</a> joins seasonal movement to longing and the wish that a message might reach its destination.</p>\n<p>Eliot gives only the opening call, placing it beside the Latin swallow of the <em>Pervigilium Veneris</em>. Marie's earlier winter journey south can also be heard against this migratory pattern, though that connection is less explicit. Near the close, literary birds and human travel become fragments of a shared desire for return and renewed speech.</p>\n<p>Songs\nO Swallow, Swallow\nby Jonathan Dove From Three Tennyson Songs</p>\n<p>O Swallow, Swallow\nEnglish source: Alfred, Lord Tennyson</p>\n<p>O Swallow, Swallow, flying, flying South,\nFly to her, and fall upon her gilded eaves,\nAnd tell her, tell her, what I tell to thee.</p>\n<p>O tell her, Swallow, thou that knowest each,\nThat bright and fierce and fickle is the South,\nAnd dark and true and tender is the North.</p>\n<p>O Swallow, Swallow, if I could follow, and light\nUpon her lattice, I would pipe and trill,\nAnd cheep and twitter twenty million loves.</p>\n<p>O were I thou that she might take me in,\nAnd lay me on her bosom, and her heart\nWould rock the snowy cradle till I died.</p>\n<p>Why lingereth she to clothe her heart with love,\nDelaying as the tender ash delays\nTo clothe herself, when all the woods are green?</p>\n<p>O tell her, Swallow, that thy brood is flown:\nSay to her, I do but wanton in the South,\nBut in the North long since my nest is made.</p>\n<p>O tell her, brief is life but love is long,\nAnd brief the sun of summer in the North,\nAnd brief the moon of beauty in the South.</p>\n<p>O Swallow, flying from the golden woods,\nFly to her, and pipe and woo her, and make her mine,\nAnd tell her, tell her, that I follow thee.</p>\n",
+      "references": [
+        {
+          "id": "ref-0011",
+          "quote": "go south in the winter.",
+          "start_line": 35,
+          "end_line": 35
+        },
+        {
+          "id": "ref-0115",
+          "quote": "O swallow swallow",
+          "start_line": 500,
+          "end_line": 500
+        }
+      ]
+    },
+    "tiresias": {
+      "title": "Tiresias, the Blind Seer",
+      "body_html": "<p>In Ovid's <em>Metamorphoses</em>, Book III, Tiresias has lived as both man and woman. Asked to judge a dispute between Jupiter and Juno about sexual pleasure, he answers Jupiter; Juno blinds him, and Jupiter compensates him with prophetic knowledge. Eliot quotes this episode in his note.</p>\n<p>Eliot calls Tiresias the poem's most important personage and says the sexes meet in him. Watching the typist and clerk, the seer carries ancient knowledge into an ordinary modern room. His foresight provides no rescue: the encounter repeats what he has already suffered. The note's claim that he unites the figures offers a connection among their fragments without making their experiences identical.</p>\n",
+      "references": [
+        {
+          "id": "ref-0072",
+          "quote": "I Tiresias, though blind, throbbing between two lives,\n  Old man with wrinkled female breasts, can see\n  At the violet hour, the evening hour that strives\n  Homeward, and brings the sailor home from sea,\n  The typist home at teatime, clears her breakfast, lights\n  Her stove, and lays out food in tins.\n  Out of the window perilously spread\n  Her drying combinations touched by the sun’s last rays,\n  On the divan are piled (at night her bed)\n  Stockings, slippers, camisoles, and stays.\n  I Tiresias, old man with wrinkled dugs\n  Perceived the scene, and foretold the rest—\n  I too awaited the expected guest.\n  He, the young man carbuncular, arrives,\n  A small house agent’s clerk, with one bold stare,\n  One of the low on whom assurance sits\n  As a silk hat on a Bradford millionaire.\n  The time is now propitious, as he guesses,\n  The meal is ended, she is bored and tired,\n  Endeavours to engage her in caresses\n  Which still are unreproved, if undesired.\n  Flushed and decided, he assaults at once;\n  Exploring hands encounter no defence;\n  His vanity requires no response,\n  And makes a welcome of indifference.\n  (And I Tiresias have foresuffered all\n  Enacted on this same divan or bed;\n  I who have sat by Thebes below the wall\n  And walked among the lowest of the dead.)\n  Bestows one final patronising kiss,\n  And gropes his way, finding the stairs unlit . . .",
+          "start_line": 260,
+          "end_line": 290
+        }
+      ]
+    },
+    "tristan": {
+      "title": "Wagner's Tristan and Isolde",
+      "body_html": "<p>Eliot's notes identify two quotations from Wagner's <em>Tristan und Isolde</em>. In Act I, a sailor's song calls toward an absent Irish girl across the sea. In Act III, the sea is described as desolate and empty while the dying Tristan waits for Isolde's arrival.</p>\n<p>The German passages enclose the hyacinth-garden memory. An opening call of desire is answered by a sea emptied of the awaited figure. The garden's inability to speak therefore stands between musical voices of longing and absence, allowing romantic intensity and emotional failure to occupy the same remembered moment.</p>\n",
+      "references": [
+        {
+          "id": "ref-0018",
+          "quote": "Frisch weht der Wind\n       Der Heimat zu\n       Mein Irisch Kind,\n       Wo weilest du?",
+          "start_line": 49,
+          "end_line": 52
+        },
+        {
+          "id": "ref-0021",
+          "quote": "Oed’ und leer das Meer.",
+          "start_line": 60,
+          "end_line": 60
+        }
+      ]
+    },
+    "upanishad": {
+      "title": "The Brihadaranyaka Upanishad",
+      "body_html": "<p>The thunder's three instructions come from the <em>Brihadaranyaka Upanishad</em>, in the story commonly numbered 5.2. Eliot's note gives 5.1 and translates the imperatives as giving, sympathizing, and controlling. In the story, gods, human beings, and demons hear the same syllable, “Da,” as the particular instruction each needs. A <a href=\"https://www.swami-krishnananda.org/brdup/brhad_V-02.html\">translation with the Sanskrit passage</a> sets out these different hearings.</p>\n<p>Eliot rearranges the commands as Datta, Dayadhvam, Damyata, giving each a separate human scene. A single sound becomes several ethical demands. After so many quotations whose speakers cannot reach one another, thunder supplies a shared utterance that still requires each listener to interpret and act.</p>\n",
+      "references": [
+        {
+          "id": "ref-0103",
+          "quote": "DA\n  Datta: what have we given?\n  My friend, blood shaking my heart\n  The awful daring of a moment’s surrender\n  Which an age of prudence can never retract\n  By this, and this only, we have existed\n  Which is not to be found in our obituaries\n  Or in memories draped by the beneficent spider\n  Or under seals broken by the lean solicitor\n  In our empty rooms\n  DA\n  Dayadhvam: I have heard the key\n  Turn in the door once and turn once only\n  We think of the key, each in his prison\n  Thinking of the key, each confirms a prison\n  Only at nightfall, aetherial rumours\n  Revive for a moment a broken Coriolanus\n  DA\n  Damyata: The boat responded\n  Gaily, to the hand expert with sail and oar\n  The sea was calm, your heart would have responded\n  Gaily, when invited, beating obedient\n  To controlling hands",
+          "start_line": 471,
+          "end_line": 493
+        },
+        {
+          "id": "ref-0119",
+          "quote": "Datta. Dayadhvam. Damyata.",
+          "start_line": 504,
+          "end_line": 504
+        }
+      ]
+    },
+    "verlaine": {
+      "title": "Verlaine's Parsifal",
+      "body_html": "<p>Eliot's note identifies Paul Verlaine's poem <em>Parsifal</em> as the source of the French line about children's voices singing in a dome. Verlaine's poem invokes the Grail world associated with Parsifal and brings its spiritual drama toward a musical, sacred conclusion.</p>\n<p>Eliot places the line immediately after the song about Mrs Porter and her daughter washing their feet. A sacred musical space suddenly opens within the bawdy river passage. The juxtaposition can suggest purification or expose the distance between ritual promise and modern life; the poem leaves both tones audible.</p>\n",
+      "references": [
+        {
+          "id": "ref-0067",
+          "quote": "Et O ces voix d’enfants, chantant dans la coupole!",
+          "start_line": 241,
+          "end_line": 241
+        }
+      ]
+    },
+    "webster": {
+      "title": "John Webster's The White Devil",
+      "body_html": "<p>John Webster's <em>The White Devil</em> supplies the burial song Eliot recalls at the end of Part I. In Webster, the wolf is to be kept from the grave because it may dig up the body; Eliot changes the animal into the dog, supposedly humanity's friend. His notes also connect the wind at the door and the later image of the spider over memorials with Webster.</p>\n<p>These scraps carry the Jacobean tragedy's atmosphere of murder, insecure burial, and mourning into modern conversation. Even friendship cannot guarantee the dead their rest. The later thought that people will quickly remarry turns private remembrance into another fragile defence against time.</p>\n",
+      "references": [
+        {
+          "id": "ref-0033",
+          "quote": "“Oh keep the Dog far hence, that’s friend to men,\n  “Or with his nails he’ll dig it up again!",
+          "start_line": 94,
+          "end_line": 95
+        },
+        {
+          "id": "ref-0041",
+          "quote": "The wind under the door.",
+          "start_line": 148,
+          "end_line": 148
+        },
+        {
+          "id": "ref-0099",
+          "quote": "the grass is singing",
+          "start_line": 456,
+          "end_line": 456
+        }
+      ]
+    },
+    "weston": {
+      "title": "Jessie Weston: From Ritual to Romance",
+      "body_html": "<p>In his opening note, Eliot acknowledges Jessie L. Weston's <em>From Ritual to Romance</em> as a source for the poem's title, plan, and much of its incidental symbolism. Weston connects medieval Grail narratives with fertility ritual, stressing relations among an injured ruler, an afflicted land, and a quest for restoration.</p>\n<p>Her account helps connect the Fisher King, fishing, drought, the dangerous chapel, and the final effort to put one's lands in order. It is a source Eliot used, rather than an established explanation of all Grail traditions or a master key to every passage. In the poem, the promised restoration remains surrounded by competing voices and incomplete acts.</p>\n",
+      "references": [
+        {
+          "id": "ref-0100",
+          "quote": "Over the tumbled graves, about the chapel\n  There is the empty chapel, only the wind’s home.",
+          "start_line": 457,
+          "end_line": 458
+        }
+      ]
+    },
+    "whitman": {
+      "title": "Walt Whitman, Lilacs, and the Hermit Thrush",
+      "body_html": "<p>The lilacs invite comparison with Walt Whitman's elegy <em>When Lilacs Last in the Dooryard Bloom'd</em>. Whitman's poem joins returning spring, the mourning of Lincoln, and a hermit thrush whose song helps the speaker confront death. The <a href=\"https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd\">poem itself</a> develops these images across an extended act of remembrance.</p>\n<p>A more direct correspondence appears in the hermit-thrush passage at lines 357–358, within the earlier evocation of a landscape without water:</p>\n<blockquote>\n<p>Here is no water but only rock\n[…]\nWhere the hermit-thrush sings in the pine trees\nDrip drop drip drop drop drop drop\nBut there is no water</p>\n</blockquote>\n<p>The apparent dripping comes from the hermit thrush's song. Eliot's own note to line 357 specifically celebrates its “water-dripping song.” He recalls hearing the bird in Quebec County and cites Frank Chapman's <em>Handbook of Birds of Eastern North America</em> on its secluded woodland habitat and the purity and sweetness of its tone. In the dry mountain landscape, the song briefly makes an imagined spring audible, before the blunt reminder that there is no water. It awakens the sensation of relief without supplying the water the exhausted travellers need.</p>\n<p>The hermit thrush is also a central image in Whitman's elegy:</p>\n<blockquote>\n<p>Solitary the thrush,\nThe hermit withdrawn to himself, avoiding the settlements,\nSings by himself a song.</p>\n</blockquote>\n<p>Whitman ultimately brings the lilac, the star, and the bird's song together in remembrance of the dead. Eliot's lilacs emerge painfully from dead land, while his later thrush seems to sing water into a landscape that has none. The connection to Whitman remains an interpretive echo, rather than an attribution Eliot makes in his notes. Where Whitman gathers these images into a sustained mourning song, Eliot lets them return as scattered, troubled reminders of the desire for consolation.</p>\n",
+      "references": [
+        {
+          "id": "ref-0006",
+          "quote": "Lilacs",
+          "start_line": 19,
+          "end_line": 19
+        },
+        {
+          "id": "ref-0093",
+          "quote": "Where the hermit-thrush sings in the pine trees\n  Drip drop drip drop drop drop drop",
+          "start_line": 422,
+          "end_line": 423
+        }
+      ]
+    }
+  }
+};
